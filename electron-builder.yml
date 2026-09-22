@@ -1,0 +1,52 @@
+appId: com.elearn.earthworm
+productName: ELearn
+copyright: Elearn desktop
+
+directories:
+  output: release
+  buildResources: build
+
+files:
+  - dist/main.js
+  - dist/preload.js
+  - package.json
+
+# better-sqlite3 is required at runtime by resources/api.cjs. Node resolves
+# from <install>/resources/node_modules upward — the copy inside app.asar is
+# NOT on that path. Ship the runtime module tree as plain files next to
+# api.cjs instead (the better-sqlite3 in node_modules carries the Windows
+# electron-ABI prebuild; npmRebuild stays off).
+npmRebuild: false
+
+extraResources:
+  - from: resources/api.cjs
+    to: api.cjs
+  - from: resources/migrations
+    to: migrations
+  - from: resources/courses-data
+    to: courses-data
+  - from: resources/seed-packs
+    to: seed-packs
+  - from: resources/renderer
+    to: renderer
+  - from: node_modules/better-sqlite3
+    to: node_modules/better-sqlite3
+  - from: node_modules/bindings
+    to: node_modules/bindings
+  - from: node_modules/file-uri-to-path
+    to: node_modules/file-uri-to-path
+
+win:
+  target:
+    - nsis
+    - zip
+  icon: build/icon.png
+  # Cross-building on Linux: skip exe signing/rcedit (requires wine).
+  # The exe stays unsigned with the default Electron icon; the NSIS
+  # installer icon still comes from build/icon.png.
+  signAndEditExecutable: false
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  artifactName: ELearn-Setup-${version}.${ext}

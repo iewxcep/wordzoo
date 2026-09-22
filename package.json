@@ -1,0 +1,23 @@
+{
+  "name": "elearn",
+  "version": "1.0.0",
+  "description": "Elearn desktop (standalone Electron build)",
+  "main": "dist/main.js",
+  "private": true,
+  "scripts": {
+    "build:main": "esbuild src/main.ts src/preload.ts --bundle --platform=node --format=cjs --external:electron --outdir=dist --log-level=warning",
+    "typecheck": "tsc --noEmit",
+    "start": "npm run build:main && electron .",
+    "dist": "npm run build:main && electron-builder --win",
+    "dist:dir": "npm run build:main && electron-builder --win --dir"
+  },
+  "devDependencies": {
+    "better-sqlite3": "^11.10.0",
+    "electron": "^31.7.7",
+    "electron-builder": "^25.1.8",
+    "esbuild": "^0.23.1",
+    "typescript": "^5.3.3",
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/node": "^20.14.0"
+  }
+}

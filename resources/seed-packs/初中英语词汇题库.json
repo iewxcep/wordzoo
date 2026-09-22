@@ -1,0 +1,6971 @@
+{
+ "title": "初中英语词汇题库",
+ "description": "初中核心词汇（中考词表），含分级例句。数据：ECDICT(MIT) 例句 AI 生成",
+ "courses": [
+  {
+   "title": "第1课",
+   "statements": [
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 善行, 好处, 利益",
+     "english": "good",
+     "soundmark": "/gud/"
+    },
+    {
+     "chinese": "n. 学生, 研究者, 学者",
+     "english": "student",
+     "soundmark": "/'stju:dnt/"
+    },
+    {
+     "chinese": "pron. 谁",
+     "english": "who",
+     "soundmark": "/hu:/"
+    },
+    {
+     "chinese": "n. 爱好的事物",
+     "english": "likes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 英语",
+     "english": "English.",
+     "soundmark": "/'iŋgliʃ/"
+    },
+    {
+     "chinese": "她是一个擅长英语的好学生。",
+     "english": "She is a good student who likes English.",
+     "soundmark": "/ʃi:/ /iz/ /ei/ /gud/ /'stju:dnt/ /hu:/ /'iŋgliʃ/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 女人, 妇女, 女仆",
+     "english": "woman",
+     "soundmark": "/'wumәn/"
+    },
+    {
+     "chinese": "a. 那, 那个",
+     "english": "that",
+     "soundmark": "/ðæt/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "v. 知道, 了解, 认识, 确信",
+     "english": "know",
+     "soundmark": "/nәu/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 教师, 老师, 导师",
+     "english": "teacher.",
+     "soundmark": "/'ti:tʃә/"
+    },
+    {
+     "chinese": "那个女人是我认识的一位老师。",
+     "english": "The woman that I know is a teacher.",
+     "soundmark": "/ðә/ /'wumәn/ /ðæt/ /ai/ /nәu/ /iz/ /ei/ /'ti:tʃә/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "v. 走路；散步（walk的过去分词）",
+     "english": "walked",
+     "soundmark": ""
+    },
+    {
+     "chinese": "adv. 穿越, 从头至尾, 到底, 因为",
+     "english": "through",
+     "soundmark": "/θru:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "我们穿过公园去上学。",
+     "english": "We walked through the park to go to school.",
+     "soundmark": "/wi:/ /θru:/ /ðә/ /pɑ:k/ /tu:/ /gou/ /tu:/ /sku:l/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 教师, 老师, 导师",
+     "english": "teacher",
+     "soundmark": "/'ti:tʃә/"
+    },
+    {
+     "chinese": "give的过去式",
+     "english": "gave",
+     "soundmark": "/geiv/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "us",
+     "soundmark": "/ʌs/"
+    },
+    {
+     "chinese": "pron. 一些, 一部分, 若干",
+     "english": "some",
+     "soundmark": "/sʌm/"
+    },
+    {
+     "chinese": "a. 有用的, 有益的",
+     "english": "useful",
+     "soundmark": "/'ju:sful/"
+    },
+    {
+     "chinese": "n. 忠告, 劝告, 意见, 报道, 通知",
+     "english": "advice.",
+     "soundmark": "/әd'vais/"
+    },
+    {
+     "chinese": "老师给了我们一些有用的建议。",
+     "english": "The teacher gave us some useful advice.",
+     "soundmark": "/ðә/ /'ti:tʃә/ /geiv/ /ʌs/ /sʌm/ /'ju:sful/ /әd'vais/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vt. 想, 考虑, 想起, 想像, 打算, 认为",
+     "english": "think",
+     "soundmark": "/θiŋk/"
+    },
+    {
+     "chinese": "n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑",
+     "english": "life",
+     "soundmark": "/laif/"
+    },
+    {
+     "chinese": "adv. 在这里, 此时, 这里",
+     "english": "here",
+     "soundmark": "/hiә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "a. 令人兴奋的, 刺激的",
+     "english": "exciting.",
+     "soundmark": "/ik'saitiŋ/"
+    },
+    {
+     "chinese": "我认为在这里的生活很精彩。",
+     "english": "I think life here is very exciting.",
+     "soundmark": "/ai/ /θiŋk/ /laif/ /hiә/ /iz/ /'veri/ /ik'saitiŋ/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 孩子, 产物, 追随者",
+     "english": "child",
+     "soundmark": "/tʃaild/"
+    },
+    {
+     "chinese": "pron. 谁",
+     "english": "who",
+     "soundmark": "/hu:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "n. 阅读, 知识, 读物",
+     "english": "reading",
+     "soundmark": "/'ri:diŋ/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 唯一的, 仅有的, 最佳的",
+     "english": "only",
+     "soundmark": "/'әunli/"
+    },
+    {
+     "chinese": "num. 五, 五个",
+     "english": "five.",
+     "soundmark": "/faiv/"
+    },
+    {
+     "chinese": "那个正在读书的孩子只有五岁。",
+     "english": "The child who is reading is only five.",
+     "soundmark": "/ðә/ /tʃaild/ /hu:/ /iz/ /'ri:diŋ/ /iz/ /'әunli/ /faiv/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 父亲, 祖先, 长辈, 神父, 创始者",
+     "english": "father",
+     "soundmark": "/'fɑ:ðә/"
+    },
+    {
+     "chinese": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行",
+     "english": "works",
+     "soundmark": ""
+    },
+    {
+     "chinese": "num. 八, 八个",
+     "english": "eight",
+     "soundmark": "/eit/"
+    },
+    {
+     "chinese": "n. 小时（hour的复数形式）",
+     "english": "hours",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "我爸爸每天工作八个小时。",
+     "english": "My father works eight hours every day.",
+     "soundmark": "/mai/ /'fɑ:ðә/ /eit/ /'evri/ /dei/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vi. 坐, 就座, 坐落",
+     "english": "sit",
+     "soundmark": "/sit/"
+    },
+    {
+     "chinese": "a. 向下的",
+     "english": "down",
+     "soundmark": "/daun/"
+    },
+    {
+     "chinese": "conj. 因为",
+     "english": "because",
+     "soundmark": "/bi'kɒ:z/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "pron. 某事, 某物",
+     "english": "something",
+     "soundmark": "/'sʌmθiŋ/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vt. 告诉, 说, 吩咐, 断定, 知道",
+     "english": "tell",
+     "soundmark": "/tel/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you.",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "坐下吧，我有事要告诉你。",
+     "english": "Please sit down because I have something to tell you.",
+     "soundmark": "/pli:z/ /sit/ /daun/ /bi'kɒ:z/ /ai/ /hæv/ /'sʌmθiŋ/ /tu:/ /tel/ /ju:/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "n. 五月",
+     "english": "may",
+     "soundmark": "/mei/"
+    },
+    {
+     "chinese": "n. 雨, 下雨, 雨天",
+     "english": "rain",
+     "soundmark": "/rein/"
+    },
+    {
+     "chinese": "n. 明天, 未来",
+     "english": "tomorrow.",
+     "soundmark": "/tә'mɒ:rәu/"
+    },
+    {
+     "chinese": "明天可能会下雨。",
+     "english": "It may rain tomorrow.",
+     "soundmark": "/it/ /mei/ /rein/ /tә'mɒ:rәu/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "After",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school,",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "v. 玩耍；演奏；播放；参加竞赛（play的过去分词）",
+     "english": "played",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 足球, 橄榄球",
+     "english": "football",
+     "soundmark": "/'futbɒ:l/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 一会儿, (一段)时间",
+     "english": "while.",
+     "soundmark": "/hwail/"
+    },
+    {
+     "chinese": "放学后，我们踢了一会儿足球。",
+     "english": "After school, we played football for a while.",
+     "soundmark": "/'ɑ:ftә/ /sku:l/ /wi:/ /'futbɒ:l/ /fɒ:/ /ei/ /hwail/"
+    }
+   ]
+  },
+  {
+   "title": "第2课",
+   "statements": [
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "You",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "aux. 应该, 将要",
+     "english": "should",
+     "soundmark": "/ʃud/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 床, 睡眠处, 河床, 底座, 路基, 一层",
+     "english": "bed",
+     "soundmark": "/bed/"
+    },
+    {
+     "chinese": "a. 早的, 早熟的",
+     "english": "early.",
+     "soundmark": "/'ә:li/"
+    },
+    {
+     "chinese": "你应该早点睡觉。",
+     "english": "You should go to bed early.",
+     "soundmark": "/ju:/ /ʃud/ /gou/ /tu:/ /bed/ /'ә:li/"
+    },
+    {
+     "chinese": "n. 呼叫, 访问, 打电话, 号召, 召集, 要求",
+     "english": "Call",
+     "soundmark": "/kɒ:l/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上",
+     "english": "get",
+     "soundmark": "/get/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 房子, 住宅, 机构, 议院, 家族, 家庭",
+     "english": "house.",
+     "soundmark": "/haus/"
+    },
+    {
+     "chinese": "到我家时给我打电话。",
+     "english": "Call me when you get to my house.",
+     "soundmark": "/kɒ:l/ /mi:/ /hwen/ /ju:/ /get/ /tu:/ /mai/ /haus/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "a. 富有旅行经验的, 旅客常到的",
+     "english": "traveled",
+     "soundmark": "/'træv(ә)ld/"
+    },
+    {
+     "chinese": "prep. 包围, 在...周围, 四处",
+     "english": "around",
+     "soundmark": "/ә'raund/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量",
+     "english": "world",
+     "soundmark": "/wә:ld/"
+    },
+    {
+     "chinese": "a. 最后的, 末尾的, 最近的",
+     "english": "last",
+     "soundmark": "/lɑ:st/"
+    },
+    {
+     "chinese": "n. 年, 年度, 年龄",
+     "english": "year.",
+     "soundmark": "/jiә/"
+    },
+    {
+     "chinese": "他周游了世界。",
+     "english": "He traveled around the world last year.",
+     "soundmark": "/hi:/ /'træv(ә)ld/ /ә'raund/ /ðә/ /wә:ld/ /lɑ:st/ /jiә/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 鸟, 羽毛球",
+     "english": "bird",
+     "soundmark": "/bә:d/"
+    },
+    {
+     "chinese": "a. 飞的, 飘扬的, 飞速的",
+     "english": "flying",
+     "soundmark": "/'flaiiŋ/"
+    },
+    {
+     "chinese": "adv. 结束, 越过, 从头到尾",
+     "english": "over",
+     "soundmark": "/'әuvә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 房子, 住宅, 机构, 议院, 家族, 家庭",
+     "english": "house.",
+     "soundmark": "/haus/"
+    },
+    {
+     "chinese": "有一只小鸟飞过了房子。",
+     "english": "There is a bird flying over the house.",
+     "soundmark": "/ðєә/ /iz/ /ei/ /bә:d/ /'flaiiŋ/ /'әuvә/ /ðә/ /haus/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school,",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "pron. 哪一个, 那一个",
+     "english": "which",
+     "soundmark": "/hwitʃ/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big.",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "这是我的学校，它很大。",
+     "english": "This is my school, which is very big.",
+     "soundmark": "/θis/ /iz/ /mai/ /sku:l/ /hwitʃ/ /iz/ /'veri/ /big/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "n. 蒸馏室, 寂静, 剧照",
+     "english": "still",
+     "soundmark": "/stil/"
+    },
+    {
+     "chinese": "v. 学习；研究（study的ing形式）",
+     "english": "studying",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 图书馆, 藏书, 库",
+     "english": "library.",
+     "soundmark": "/'laibrәri/"
+    },
+    {
+     "chinese": "他在图书馆仍然在学习。",
+     "english": "He is still studying in the library.",
+     "soundmark": "/hi:/ /iz/ /stil/ /in/ /ðә/ /'laibrәri/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "n. 尝试, 试验, 审理, 审判",
+     "english": "try",
+     "soundmark": "/trai/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "a. 最好的",
+     "english": "best",
+     "soundmark": "/best/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 经过, 要隘, 途径, 通行, 护照, 及格",
+     "english": "pass",
+     "soundmark": "/pæs/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 考试, 测验",
+     "english": "exam.",
+     "soundmark": "/ig'zæm/"
+    },
+    {
+     "chinese": "我会努力通过考试的。",
+     "english": "I will try my best to pass the exam.",
+     "soundmark": "/ai/ /wil/ /trai/ /mai/ /best/ /tu:/ /pæs/ /ðә/ /ig'zæm/"
+    },
+    {
+     "chinese": "conj. 如果, 是否, 无论何时, 假设, 即使",
+     "english": "If",
+     "soundmark": "/if/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 需要, 必须, 缺乏",
+     "english": "need",
+     "soundmark": "/ni:d/"
+    },
+    {
+     "chinese": "n. 帮忙, 帮助者, 补救办法, 有益的东西",
+     "english": "help,",
+     "soundmark": "/help/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vi. 问, 要求",
+     "english": "ask",
+     "soundmark": "/ɑ:sk/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me.",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "如果你需要帮助，请问我。",
+     "english": "If you need help, please ask me.",
+     "soundmark": "/if/ /ju:/ /ni:d/ /help/ /pli:z/ /ɑ:sk/ /mi:/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "v. 做, 进行, 完成",
+     "english": "do",
+     "soundmark": "/du:/"
+    },
+    {
+     "chinese": "adv. 不, 非, 未",
+     "english": "not",
+     "soundmark": "/nɒt/"
+    },
+    {
+     "chinese": "n. 需要, 必须, 缺乏",
+     "english": "need",
+     "soundmark": "/ni:d/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today.",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "我们今天不需要去学校。",
+     "english": "We do not need to go to school today.",
+     "soundmark": "/wi:/ /du:/ /nɒt/ /ni:d/ /tu:/ /gou/ /tu:/ /sku:l/ /tә'dei/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "adv. 也, 非常, 太",
+     "english": "too",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "a. 有趣的",
+     "english": "interesting,",
+     "soundmark": "/'intristiŋ/"
+    },
+    {
+     "chinese": "adv. 如此, 如是, 如...那样",
+     "english": "so",
+     "soundmark": "/sәu/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "v. 读, 阅读, 理解",
+     "english": "read",
+     "soundmark": "/ri:d/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "it",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "adv. 两次, 两倍",
+     "english": "twice.",
+     "soundmark": "/twais/"
+    },
+    {
+     "chinese": "这本书太有趣了，我读了两遍。",
+     "english": "This book is too interesting, so I read it twice.",
+     "soundmark": "/θis/ /buk/ /iz/ /tu:/ /'intristiŋ/ /sәu/ /ai/ /ri:d/ /it/ /twais/"
+    }
+   ]
+  },
+  {
+   "title": "第3课",
+   "statements": [
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vt. 感觉, 觉得, 触摸, 以为",
+     "english": "feel",
+     "soundmark": "/fi:l/"
+    },
+    {
+     "chinese": "n. 大量, 许多, 重要的事",
+     "english": "much",
+     "soundmark": "/mʌtʃ/"
+    },
+    {
+     "chinese": "a. 较好的",
+     "english": "better",
+     "soundmark": "/'betә/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "conj. 比, 除...外",
+     "english": "than",
+     "soundmark": "/ðæn/"
+    },
+    {
+     "chinese": "n. 昨天",
+     "english": "yesterday.",
+     "soundmark": "/'jestәdi/"
+    },
+    {
+     "chinese": "我今天感觉好多了。",
+     "english": "I feel much better today than yesterday.",
+     "soundmark": "/ai/ /fi:l/ /mʌtʃ/ /'betә/ /tә'dei/ /ðæn/ /'jestәdi/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "a. 买来的",
+     "english": "bought",
+     "soundmark": "/bɒ:t/"
+    },
+    {
+     "chinese": "num. 三, 三个",
+     "english": "three",
+     "soundmark": "/θri:/"
+    },
+    {
+     "chinese": "n. 英语",
+     "english": "English",
+     "soundmark": "/'iŋgliʃ/"
+    },
+    {
+     "chinese": "n. 书评；书籍（book的复数）",
+     "english": "books",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 图书馆, 藏书, 库",
+     "english": "library.",
+     "soundmark": "/'laibrәri/"
+    },
+    {
+     "chinese": "我在图书馆买了三本英语书。",
+     "english": "I bought three English books at the library.",
+     "soundmark": "/ai/ /bɒ:t/ /θri:/ /'iŋgliʃ/ /æt/ /ðә/ /'laibrәri/"
+    },
+    {
+     "chinese": "n. 水, 雨水, 海水, 水位, 水面, 流水",
+     "english": "Water",
+     "soundmark": "/'wɒ:tә/"
+    },
+    {
+     "chinese": "have的第三人称单数现在式",
+     "english": "has",
+     "soundmark": "/hæz/"
+    },
+    {
+     "chinese": "num. 三, 三个",
+     "english": "three",
+     "soundmark": "/θri:/"
+    },
+    {
+     "chinese": "n. 美国",
+     "english": "states:",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 固体",
+     "english": "solid,",
+     "soundmark": "/'sɒlid/"
+    },
+    {
+     "chinese": "n. 液体, 流体, 流音",
+     "english": "liquid",
+     "soundmark": "/'likwid/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "n. 气体, 汽油, 瓦斯",
+     "english": "gas.",
+     "soundmark": "/gæs/"
+    },
+    {
+     "chinese": "水有三种状态：固态、液态和气态。",
+     "english": "Water has three states: solid, liquid and gas.",
+     "soundmark": "/'wɒ:tә/ /hæz/ /θri:/ /'sɒlid/ /'likwid/ /ænd/ /gæs/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "adv. 从不, 决不, 不曾",
+     "english": "never",
+     "soundmark": "/'nevә/"
+    },
+    {
+     "chinese": "see的过去分词",
+     "english": "seen",
+     "soundmark": "/si:n/"
+    },
+    {
+     "chinese": "a. 如此的, 这样的",
+     "english": "such",
+     "soundmark": "/sʌtʃ/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 高的, 长的, 夸大的",
+     "english": "tall",
+     "soundmark": "/tɒ:l/"
+    },
+    {
+     "chinese": "n. 建筑物, 建筑",
+     "english": "building.",
+     "soundmark": "/'bildiŋ/"
+    },
+    {
+     "chinese": "我从未见过这么高的建筑。",
+     "english": "I have never seen such a tall building.",
+     "soundmark": "/ai/ /hæv/ /'nevә/ /si:n/ /sʌtʃ/ /ei/ /tɒ:l/ /'bildiŋ/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "n. 需求, 欲望, 必需品",
+     "english": "wants",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vi. 变成, 变得",
+     "english": "become",
+     "soundmark": "/bi'kʌm/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 医生, 博士",
+     "english": "doctor",
+     "soundmark": "/'dɒktә/"
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "he",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "v. 种植( grow的第三人称单数 ); 扩大; 扩展; 增加",
+     "english": "grows",
+     "soundmark": "/ɡrəuz/"
+    },
+    {
+     "chinese": "a. 向上的, 起床的, 涨的",
+     "english": "up.",
+     "soundmark": "/ʌp/"
+    },
+    {
+     "chinese": "他长大后想当一名医生。",
+     "english": "He wants to become a doctor when he grows up.",
+     "soundmark": "/hi:/ /tu:/ /bi'kʌm/ /ei/ /'dɒktә/ /hwen/ /hi:/ /ɡrəuz/ /ʌp/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营",
+     "english": "post",
+     "soundmark": "/pәust/"
+    },
+    {
+     "chinese": "n. 办公室, 部, 公职, 职责",
+     "english": "office",
+     "soundmark": "/'ɒfis/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "prep. 在...之间",
+     "english": "between",
+     "soundmark": "/bi'twi:n/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park.",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "邮局就在学校和公园之间。",
+     "english": "The post office is between the school and the park.",
+     "soundmark": "/ðә/ /pәust/ /'ɒfis/ /iz/ /bi'twi:n/ /ðә/ /sku:l/ /ænd/ /ðә/ /pɑ:k/"
+    },
+    {
+     "chinese": "adv. 如何, 怎样, 多少, 多么",
+     "english": "How",
+     "soundmark": "/hau/"
+    },
+    {
+     "chinese": "n. 高度, 高处",
+     "english": "high",
+     "soundmark": "/hai/"
+    },
+    {
+     "chinese": "be的现在时复数或第二人称单数",
+     "english": "are",
+     "soundmark": "/ɑ:/"
+    },
+    {
+     "chinese": "pron. 那些",
+     "english": "those",
+     "soundmark": "/ðәuz/"
+    },
+    {
+     "chinese": "n. 山脉；山区；山岳（mountain的复数）",
+     "english": "mountains",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "n. 冬季, 萧条期, 衰退期",
+     "english": "winter?",
+     "soundmark": "/'wintә/"
+    },
+    {
+     "chinese": "那些山在冬天有多高？",
+     "english": "How high are those mountains in winter?",
+     "soundmark": "/hau/ /hai/ /ɑ:/ /ðәuz/ /in/ /'wintә/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 需要的东西, 缺乏, 贫困, 需要",
+     "english": "want",
+     "soundmark": "/wɒnt/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相",
+     "english": "show",
+     "soundmark": "/ʃәu/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "pron. 某事, 某物",
+     "english": "something",
+     "soundmark": "/'sʌmθiŋ/"
+    },
+    {
+     "chinese": "n. 今晚, 今夜",
+     "english": "tonight.",
+     "soundmark": "/tә'nait/"
+    },
+    {
+     "chinese": "我想今晚给你看点东西。",
+     "english": "I want to show you something tonight.",
+     "soundmark": "/ai/ /wɒnt/ /tu:/ /ʃәu/ /ju:/ /'sʌmθiŋ/ /tә'nait/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "adv. 实际上, 真实地, 实在",
+     "english": "really",
+     "soundmark": "/'riәli/"
+    },
+    {
+     "chinese": "a. 相似的, 同样的",
+     "english": "like",
+     "soundmark": "/laik/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 面条, 挂面（noodle的复数形式）",
+     "english": "noodles",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 那, 那个",
+     "english": "that",
+     "soundmark": "/ðæt/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 母亲, 修女院长",
+     "english": "mother",
+     "soundmark": "/'mʌðә/"
+    },
+    {
+     "chinese": "v. 做, 制作（make的第三人称单数）",
+     "english": "makes.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "我真的很喜欢我妈做的面条。",
+     "english": "I really like the noodles that my mother makes.",
+     "soundmark": "/ai/ /'riәli/ /laik/ /ðә/ /ðæt/ /mai/ /'mʌðә/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 最多, 最大",
+     "english": "most",
+     "soundmark": "/mәust/"
+    },
+    {
+     "chinese": "a. 通俗的, 流行的, 受欢迎的, 大众的, 人民的, 普及的",
+     "english": "popular",
+     "soundmark": "/'pɒpjulә/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "pron. 我们的",
+     "english": "our",
+     "soundmark": "/'auә/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class.",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "这本书是我们班最受欢迎的。",
+     "english": "This book is the most popular in our class.",
+     "soundmark": "/θis/ /buk/ /iz/ /ðә/ /mәust/ /'pɒpjulә/ /in/ /'auә/ /klɑ:s/"
+    }
+   ]
+  },
+  {
+   "title": "第4课",
+   "statements": [
+    {
+     "chinese": "aux. 可以, 能",
+     "english": "Could",
+     "soundmark": "/kud/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上",
+     "english": "get",
+     "soundmark": "/get/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "a. 另外的, 再一的, 不同的",
+     "english": "another",
+     "soundmark": "/ә'nʌðә/"
+    },
+    {
+     "chinese": "n. 瓶子, 酒瓶",
+     "english": "bottle",
+     "soundmark": "/'bɒtl/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "n. 水, 雨水, 海水, 水位, 水面, 流水",
+     "english": "water?",
+     "soundmark": "/'wɒ:tә/"
+    },
+    {
+     "chinese": "你能给我再拿一瓶水吗？",
+     "english": "Could you get me another bottle of water?",
+     "soundmark": "/kud/ /ju:/ /get/ /mi:/ /ә'nʌðә/ /'bɒtl/ /ɒv/ /'wɒ:tә/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "You",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "abbr. did not 没有",
+     "english": "didn't",
+     "soundmark": "/ˈdɪdnt/"
+    },
+    {
+     "chinese": "v. 吃, 腐蚀",
+     "english": "eat",
+     "soundmark": "/i:t/"
+    },
+    {
+     "chinese": "n. 大量, 许多, 重要的事",
+     "english": "much",
+     "soundmark": "/mʌtʃ/"
+    },
+    {
+     "chinese": "n. 早餐",
+     "english": "breakfast",
+     "soundmark": "/'brekfәst/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 早晨, 早上, 初期",
+     "english": "morning.",
+     "soundmark": "/'mɒ:niŋ/"
+    },
+    {
+     "chinese": "今天早上你没吃多少早饭。",
+     "english": "You didn't eat much breakfast this morning.",
+     "soundmark": "/ju:/ /ˈdɪdnt/ /i:t/ /mʌtʃ/ /'brekfәst/ /θis/ /'mɒ:niŋ/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 全部, 全体, 整体, 完全之体系",
+     "english": "whole",
+     "soundmark": "/hәul/"
+    },
+    {
+     "chinese": "n. 家庭, 家人, 族",
+     "english": "family",
+     "soundmark": "/'fæmәli/"
+    },
+    {
+     "chinese": "v. 爱, 热爱( love的第三人称单数 ); 喜爱; 喜好; 喜欢",
+     "english": "loves",
+     "soundmark": "/lʌvz/"
+    },
+    {
+     "chinese": "n. 去, 离去, 工作情况, 地面状况, 行为",
+     "english": "going",
+     "soundmark": "/'gәuiŋ/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "adv. 在每周末",
+     "english": "weekends.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "我们全家人周末都爱去公园。",
+     "english": "My whole family loves going to the park on weekends.",
+     "soundmark": "/mai/ /hәul/ /'fæmәli/ /lʌvz/ /'gәuiŋ/ /tu:/ /ðә/ /pɑ:k/ /ɒn/"
+    },
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "v. （使）清洁( clean的过去式和过去分词 ); 变干净; 除去…的灰尘; 使…干净",
+     "english": "cleaned",
+     "soundmark": "/kli:nd/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 全部, 全体, 整体, 完全之体系",
+     "english": "whole",
+     "soundmark": "/hәul/"
+    },
+    {
+     "chinese": "n. 房间, 空位, 场所",
+     "english": "room",
+     "soundmark": "/ru:m/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "pron. 她的, 她",
+     "english": "her",
+     "soundmark": "/hә:/"
+    },
+    {
+     "chinese": "n. 自己的",
+     "english": "own.",
+     "soundmark": "/әun/"
+    },
+    {
+     "chinese": "她自己一个人就打扫了整个房间。",
+     "english": "She cleaned the whole room on her own.",
+     "soundmark": "/ʃi:/ /kli:nd/ /ðә/ /hәul/ /ru:m/ /ɒn/ /hә:/ /әun/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "n. 许可, 告别, 请假, 休假",
+     "english": "leave",
+     "soundmark": "/li:v/"
+    },
+    {
+     "chinese": "[经] 北京",
+     "english": "Beijing",
+     "soundmark": "/beidʒiŋ/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. 上海, 浦东鸡",
+     "english": "Shanghai",
+     "soundmark": "/'ʃæŋhai/"
+    },
+    {
+     "chinese": "n. 明天, 未来",
+     "english": "tomorrow.",
+     "soundmark": "/tә'mɒ:rәu/"
+    },
+    {
+     "chinese": "我明天要离开北京去上海。",
+     "english": "I will leave Beijing for Shanghai tomorrow.",
+     "soundmark": "/ai/ /wil/ /li:v/ /beidʒiŋ/ /fɒ:/ /'ʃæŋhai/ /tә'mɒ:rәu/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予",
+     "english": "put",
+     "soundmark": "/put/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 书评；书籍（book的复数）",
+     "english": "books",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 后面的",
+     "english": "back",
+     "soundmark": "/bæk/"
+    },
+    {
+     "chinese": "adv. 在哪里",
+     "english": "where",
+     "soundmark": "/hwєә/"
+    },
+    {
+     "chinese": "pron. 他们, 它们",
+     "english": "they",
+     "soundmark": "/ðei/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "were.",
+     "soundmark": "/wә:/"
+    },
+    {
+     "chinese": "请把书放回它们原来的地方。",
+     "english": "Please put the books back where they were.",
+     "soundmark": "/pli:z/ /put/ /ðә/ /bæk/ /hwєә/ /ðei/ /wә:/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "爷爷, 老太爷, 外公",
+     "english": "grandpa",
+     "soundmark": "/'^rænpɑ:, '^rændpɑ:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "num. 七十, 七十个",
+     "english": "seventy",
+     "soundmark": "/'sevnti/"
+    },
+    {
+     "chinese": "n. 年代；岁月；年；年龄",
+     "english": "years",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 以前, 往昔",
+     "english": "old,",
+     "soundmark": "/әuld/"
+    },
+    {
+     "chinese": "prep. 除了",
+     "english": "but",
+     "soundmark": "/bʌt/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "he",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "n. 蒸馏室, 寂静, 剧照",
+     "english": "still",
+     "soundmark": "/stil/"
+    },
+    {
+     "chinese": "n. 练习题, 演习；运动",
+     "english": "exercises",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "我爷爷虽已七十岁，但仍然每天锻炼。",
+     "english": "My grandpa is seventy years old, but he still exercises every day.",
+     "soundmark": "/mai/ /'^rænpɑ:, '^rændpɑ:/ /iz/ /'sevnti/ /әuld/ /bʌt/ /hi:/ /stil/ /'evri/ /dei/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "v. 读, 阅读, 理解",
+     "english": "read",
+     "soundmark": "/ri:d/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 很少的, 不多的, 少数的",
+     "english": "few",
+     "soundmark": "/fju:/"
+    },
+    {
+     "chinese": "n. 页数；青年侍从（page的复数）",
+     "english": "pages",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 一会儿, (一段)时间",
+     "english": "while",
+     "soundmark": "/hwail/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "was",
+     "soundmark": "/wɒz/"
+    },
+    {
+     "chinese": "n. 等候",
+     "english": "waiting",
+     "soundmark": "/'weitiŋ/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公共汽车",
+     "english": "bus.",
+     "soundmark": "/bʌs/"
+    },
+    {
+     "chinese": "我在等公交车的时候看了几页书。",
+     "english": "I read a few pages while I was waiting for the bus.",
+     "soundmark": "/ai/ /ri:d/ /ei/ /fju:/ /hwail/ /ai/ /wɒz/ /'weitiŋ/ /fɒ:/ /ðә/ /bʌs/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "(= do not)不要",
+     "english": "don't",
+     "soundmark": "/dәunt/"
+    },
+    {
+     "chinese": "v. 知道, 了解, 认识, 确信",
+     "english": "know",
+     "soundmark": "/nәu/"
+    },
+    {
+     "chinese": "pron. 什么",
+     "english": "what",
+     "soundmark": "/hwɒt/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 话, 消息, 词, 诺言, 命令",
+     "english": "word",
+     "soundmark": "/wә:d/"
+    },
+    {
+     "chinese": "n. 方法, 手段, 工具, 财产, 收入",
+     "english": "means.",
+     "soundmark": "/mi:nz/"
+    },
+    {
+     "chinese": "我不知道这个生词是什么意思。",
+     "english": "I don't know what this new word means.",
+     "soundmark": "/ai/ /dәunt/ /nәu/ /hwɒt/ /θis/ /nju:/ /wә:d/ /mi:nz/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 医生, 博士",
+     "english": "doctor",
+     "soundmark": "/'dɒktә/"
+    },
+    {
+     "chinese": "v. 说（第三人称单数）",
+     "english": "says",
+     "soundmark": "/sez/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "aux. 应该, 将要",
+     "english": "should",
+     "soundmark": "/ʃud/"
+    },
+    {
+     "chinese": "n. 生计, 维持, 保持",
+     "english": "keep",
+     "soundmark": "/ki:p/"
+    },
+    {
+     "chinese": "v. 锻炼, 训练, 练习( exercise的现在分词 ); 锻炼（身体某部位）; 使焦虑; 发挥（作用）",
+     "english": "exercising",
+     "soundmark": "/'eksəsaɪzɪŋ/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "医生说我们应该每天坚持锻炼。",
+     "english": "The doctor says we should keep exercising every day.",
+     "soundmark": "/ðә/ /'dɒktә/ /sez/ /wi:/ /ʃud/ /ki:p/ /'eksəsaɪzɪŋ/ /'evri/ /dei/"
+    }
+   ]
+  },
+  {
+   "title": "第5课",
+   "statements": [
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "Every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 学生, 研究者, 学者",
+     "english": "student",
+     "soundmark": "/'stju:dnt/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "pron. 我们的",
+     "english": "our",
+     "soundmark": "/'auә/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "n. 爱好的事物",
+     "english": "likes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 英语",
+     "english": "English",
+     "soundmark": "/'iŋgliʃ/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "n. 大量, 许多, 重要的事",
+     "english": "much.",
+     "soundmark": "/mʌtʃ/"
+    },
+    {
+     "chinese": "我们班的每个学生都很喜欢英语。",
+     "english": "Every student in our class likes English very much.",
+     "soundmark": "/'evri/ /'stju:dnt/ /in/ /'auә/ /klɑ:s/ /'iŋgliʃ/ /'veri/ /mʌtʃ/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "(= do not)不要",
+     "english": "don't",
+     "soundmark": "/dәunt/"
+    },
+    {
+     "chinese": "v. 知道, 了解, 认识, 确信",
+     "english": "know",
+     "soundmark": "/nәu/"
+    },
+    {
+     "chinese": "adv. 为什么",
+     "english": "why",
+     "soundmark": "/hwai/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "he",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "was",
+     "soundmark": "/wɒz/"
+    },
+    {
+     "chinese": "a. 迟的, 晚的, 已故的",
+     "english": "late",
+     "soundmark": "/leit/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today.",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "我不知道他今天上学为什么迟到。",
+     "english": "I don't know why he was late for school today.",
+     "soundmark": "/ai/ /dәunt/ /nәu/ /hwai/ /hi:/ /wɒz/ /leit/ /fɒ:/ /sku:l/ /tә'dei/"
+    },
+    {
+     "chinese": "vt. 让, 假设, 出租, 排放, 妨碍",
+     "english": "Let",
+     "soundmark": "/let/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "n. 帮忙, 帮助者, 补救办法, 有益的东西",
+     "english": "help",
+     "soundmark": "/help/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 进位, 射程, 运载",
+     "english": "carry",
+     "soundmark": "/'kæri/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 盒子, 箱, 方框, 一巴掌",
+     "english": "box",
+     "soundmark": "/bɒks/"
+    },
+    {
+     "chinese": "a. 楼上的",
+     "english": "upstairs.",
+     "soundmark": "/'ʌp'stєәz/"
+    },
+    {
+     "chinese": "让我帮你把这个大箱子搬上楼。",
+     "english": "Let me help you carry the big box upstairs.",
+     "soundmark": "/let/ /mi:/ /help/ /ju:/ /'kæri/ /ðә/ /big/ /bɒks/ /'ʌp'stєәz/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "have的过去式和过去分词",
+     "english": "had",
+     "soundmark": "/hæd/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的",
+     "english": "great",
+     "soundmark": "/greit/"
+    },
+    {
+     "chinese": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间",
+     "english": "time",
+     "soundmark": "/taim/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "a. 最后的, 末尾的, 最近的",
+     "english": "last",
+     "soundmark": "/lɑ:st/"
+    },
+    {
+     "chinese": "n. 星期日",
+     "english": "Sunday.",
+     "soundmark": "/'sʌndi/"
+    },
+    {
+     "chinese": "上周日我们在公园玩得很开心。",
+     "english": "We had a great time at the park last Sunday.",
+     "soundmark": "/wi:/ /hæd/ /ei/ /greit/ /taim/ /æt/ /ðә/ /pɑ:k/ /lɑ:st/ /'sʌndi/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 兄弟",
+     "english": "brother",
+     "soundmark": "/'brʌðә/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 相同的, 同样的",
+     "english": "same",
+     "soundmark": "/seim/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "我哥哥和我上同一所学校。",
+     "english": "My brother and I go to the same school.",
+     "soundmark": "/mai/ /'brʌðә/ /ænd/ /ai/ /gou/ /tu:/ /ðә/ /seim/ /sku:l/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 树, 木料, 树状物",
+     "english": "tree",
+     "soundmark": "/tri:/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "n. 前面, 开头, 前线, 阵线, 态度",
+     "english": "front",
+     "soundmark": "/frʌnt/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "pron. 我们的",
+     "english": "our",
+     "soundmark": "/'auә/"
+    },
+    {
+     "chinese": "n. 房子, 住宅, 机构, 议院, 家族, 家庭",
+     "english": "house.",
+     "soundmark": "/haus/"
+    },
+    {
+     "chinese": "我们家前面有一棵大树。",
+     "english": "There is a big tree in front of our house.",
+     "soundmark": "/ðєә/ /iz/ /ei/ /big/ /tri:/ /in/ /frʌnt/ /ɒv/ /'auә/ /haus/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 教师, 老师, 导师",
+     "english": "teacher",
+     "soundmark": "/'ti:tʃә/"
+    },
+    {
+     "chinese": "n. 卖方要价",
+     "english": "asked",
+     "soundmark": ""
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "us",
+     "soundmark": "/ʌs/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程",
+     "english": "work",
+     "soundmark": "/wә:k/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 团体, 组, 团, 群",
+     "english": "group",
+     "soundmark": "/gru:p/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "num. 四, 四个",
+     "english": "four.",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "老师让我们四人一组合作。",
+     "english": "The teacher asked us to work in a group of four.",
+     "soundmark": "/ðә/ /'ti:tʃә/ /ʌs/ /tu:/ /wә:k/ /in/ /ei/ /gru:p/ /ɒv/ /fɒ:/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "Class",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "v. 开始",
+     "english": "begin",
+     "soundmark": "/bi'gin/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "num. 八, 八个",
+     "english": "eight",
+     "soundmark": "/eit/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 早晨, 早上, 初期",
+     "english": "morning.",
+     "soundmark": "/'mɒ:niŋ/"
+    },
+    {
+     "chinese": "课在早上八点开始。",
+     "english": "Class will begin at eight in the morning.",
+     "soundmark": "/klɑ:s/ /wil/ /bi'gin/ /æt/ /eit/ /in/ /ðә/ /'mɒ:niŋ/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "v. 好像, 仿佛（ seem的第三人称单数 ）",
+     "english": "seems",
+     "soundmark": "/si:mz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "a. 快乐的, 幸福的, 愉快的, 恰当的",
+     "english": "happy",
+     "soundmark": "/'hæpi/"
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "he",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "n. 会谈",
+     "english": "talks",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...周围, 大约, 有关, 关于",
+     "english": "about",
+     "soundmark": "/ә'baut/"
+    },
+    {
+     "chinese": "pron. 他的",
+     "english": "his",
+     "soundmark": "/hiz/"
+    },
+    {
+     "chinese": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
+     "english": "trip.",
+     "soundmark": "/trip/"
+    },
+    {
+     "chinese": "他谈起旅行时似乎很开心。",
+     "english": "He seems very happy when he talks about his trip.",
+     "soundmark": "/hi:/ /si:mz/ /'veri/ /'hæpi/ /hwen/ /hi:/ /ә'baut/ /hiz/ /trip/"
+    },
+    {
+     "chinese": "n. 中国, 瓷器",
+     "english": "China",
+     "soundmark": "/'tʃainә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 国家, 乡村, 地区, 故乡",
+     "english": "country",
+     "soundmark": "/'kʌntri/"
+    },
+    {
+     "chinese": "prep. 和...在一起, 以, 由于",
+     "english": "with",
+     "soundmark": "/wið/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 长的, 长久的, 冗长的, 做多头的",
+     "english": "long",
+     "soundmark": "/lɒŋ/"
+    },
+    {
+     "chinese": "n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录",
+     "english": "history.",
+     "soundmark": "/'histәri/"
+    },
+    {
+     "chinese": "中国是一个历史悠久的大国。",
+     "english": "China is a big country with a long history.",
+     "soundmark": "/'tʃainә/ /iz/ /ei/ /big/ /'kʌntri/ /wið/ /ei/ /lɒŋ/ /'histәri/"
+    }
+   ]
+  },
+  {
+   "title": "第6课",
+   "statements": [
+    {
+     "chinese": "aux. 可以, 能",
+     "english": "Could",
+     "soundmark": "/kud/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 帮忙, 帮助者, 补救办法, 有益的东西",
+     "english": "help",
+     "soundmark": "/help/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "prep. 和...在一起, 以, 由于",
+     "english": "with",
+     "soundmark": "/wið/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 数学",
+     "english": "math",
+     "soundmark": "/mæθ/"
+    },
+    {
+     "chinese": "n. 家庭作业, 家里做的工作",
+     "english": "homework",
+     "soundmark": "/'hәumwә:k/"
+    },
+    {
+     "chinese": "n. 今晚, 今夜",
+     "english": "tonight?",
+     "soundmark": "/tә'nait/"
+    },
+    {
+     "chinese": "今晚你能帮我做数学作业吗？",
+     "english": "Could you help me with my math homework tonight?",
+     "soundmark": "/kud/ /ju:/ /help/ /mi:/ /wið/ /mai/ /mæθ/ /'hәumwә:k/ /tә'nait/"
+    },
+    {
+     "chinese": "abbr. let us 让我们",
+     "english": "Let's",
+     "soundmark": "/lets/"
+    },
+    {
+     "chinese": "n. 谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言",
+     "english": "talk",
+     "soundmark": "/tɒ:k/"
+    },
+    {
+     "chinese": "prep. 在...周围, 大约, 有关, 关于",
+     "english": "about",
+     "soundmark": "/ә'baut/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图",
+     "english": "plan",
+     "soundmark": "/plæn/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "after",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "adv. 结束, 越过, 从头到尾",
+     "english": "over.",
+     "soundmark": "/'әuvә/"
+    },
+    {
+     "chinese": "下课后我们谈谈这个计划吧。",
+     "english": "Let's talk about the plan after class is over.",
+     "soundmark": "/lets/ /tɒ:k/ /ә'baut/ /ðә/ /plæn/ /'ɑ:ftә/ /klɑ:s/ /iz/ /'әuvә/"
+    },
+    {
+     "chinese": "v. 做, 进行, 完成",
+     "english": "Do",
+     "soundmark": "/du:/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "v. 知道, 了解, 认识, 确信",
+     "english": "know",
+     "soundmark": "/nәu/"
+    },
+    {
+     "chinese": "adv. 在哪里",
+     "english": "where",
+     "soundmark": "/hwєә/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 英语",
+     "english": "English",
+     "soundmark": "/'iŋgliʃ/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "adv. 现在, 刚才, 目前",
+     "english": "now?",
+     "soundmark": "/nau/"
+    },
+    {
+     "chinese": "你知道我的英语书现在在哪儿吗？",
+     "english": "Do you know where my English book is now?",
+     "soundmark": "/du:/ /ju:/ /nәu/ /hwєә/ /mai/ /'iŋgliʃ/ /buk/ /iz/ /nau/"
+    },
+    {
+     "chinese": "n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折",
+     "english": "Turn",
+     "soundmark": "/tә:n/"
+    },
+    {
+     "chinese": "a. 左边的, 左倾的, 左侧的, 左派的",
+     "english": "left",
+     "soundmark": "/left/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 角落, 转角, 窘境",
+     "english": "corner",
+     "soundmark": "/'kɒ:nә/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意",
+     "english": "see",
+     "soundmark": "/si:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 商店, 工厂, 车间",
+     "english": "shop.",
+     "soundmark": "/ʃɒp/"
+    },
+    {
+     "chinese": "在拐角处左转，你就会看到那家店。",
+     "english": "Turn left at the corner and you will see the shop.",
+     "soundmark": "/tә:n/ /left/ /æt/ /ðә/ /'kɒ:nә/ /ænd/ /ju:/ /wil/ /si:/ /ðә/ /ʃɒp/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 数学",
+     "english": "math",
+     "soundmark": "/mæθ/"
+    },
+    {
+     "chinese": "n. 问题, 难题",
+     "english": "problem",
+     "soundmark": "/'prɒblәm/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "adv. 也, 非常, 太",
+     "english": "too",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的",
+     "english": "hard",
+     "soundmark": "/hɑ:d/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vt. 解决, 付给, 溶解",
+     "english": "solve.",
+     "soundmark": "/sɒlv/"
+    },
+    {
+     "chinese": "这道数学题太难，我解不出来。",
+     "english": "This math problem is too hard for me to solve.",
+     "soundmark": "/θis/ /mæθ/ /'prɒblәm/ /iz/ /tu:/ /hɑ:d/ /fɒ:/ /mi:/ /tu:/ /sɒlv/"
+    },
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "v. 读, 看懂, 理解( read的第三人称单数 ); 显示, 标明",
+     "english": "reads",
+     "soundmark": "/ri:dz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层",
+     "english": "story",
+     "soundmark": "/'stɒ:ri/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "pron. 她的, 她",
+     "english": "her",
+     "soundmark": "/hә:/"
+    },
+    {
+     "chinese": "n. 儿子, 女婿, 子孙",
+     "english": "son",
+     "soundmark": "/sʌn/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作",
+     "english": "night.",
+     "soundmark": "/nait/"
+    },
+    {
+     "chinese": "她每晚都给儿子读一个故事。",
+     "english": "She reads a story to her son every night.",
+     "soundmark": "/ʃi:/ /ri:dz/ /ei/ /'stɒ:ri/ /tu:/ /hә:/ /sʌn/ /'evri/ /nait/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 电影",
+     "english": "movie",
+     "soundmark": "/'mu:vi/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "n. 惊起, 出发, 开端, 起点, 吃惊, 有利条件",
+     "english": "start",
+     "soundmark": "/stɑ:t/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "num. 七, 七个",
+     "english": "seven",
+     "soundmark": "/'sevn/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 傍晚, 晚间, 末期",
+     "english": "evening.",
+     "soundmark": "/'i:vniŋ/"
+    },
+    {
+     "chinese": "电影今晚七点开始。",
+     "english": "The movie will start at seven this evening.",
+     "soundmark": "/ðә/ /'mu:vi/ /wil/ /stɑ:t/ /æt/ /'sevn/ /θis/ /'i:vniŋ/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "n. 上升, 高地, 增高",
+     "english": "raise",
+     "soundmark": "/reiz/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手",
+     "english": "hand",
+     "soundmark": "/hænd/"
+    },
+    {
+     "chinese": "conj. 如果, 是否, 无论何时, 假设, 即使",
+     "english": "if",
+     "soundmark": "/if/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 问题, 询问",
+     "english": "question.",
+     "soundmark": "/'kwestʃәn/"
+    },
+    {
+     "chinese": "如果你有问题，请举手。",
+     "english": "Please raise your hand if you have a question.",
+     "soundmark": "/pli:z/ /reiz/ /juә/ /hænd/ /if/ /ju:/ /hæv/ /ei/ /'kwestʃәn/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "n. 力量, 权力",
+     "english": "might",
+     "soundmark": "/mait/"
+    },
+    {
+     "chinese": "n. 雨, 下雨, 雨天",
+     "english": "rain",
+     "soundmark": "/rein/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 午后, 下午",
+     "english": "afternoon,",
+     "soundmark": "/'ɑ:ftә'nu:n/"
+    },
+    {
+     "chinese": "adv. 如此, 如是, 如...那样",
+     "english": "so",
+     "soundmark": "/sәu/"
+    },
+    {
+     "chinese": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+     "english": "take",
+     "soundmark": "/teik/"
+    },
+    {
+     "chinese": "art. 一",
+     "english": "an",
+     "soundmark": "/æn/"
+    },
+    {
+     "chinese": "n. 伞, 雨伞, 保护伞",
+     "english": "umbrella.",
+     "soundmark": "/ʌm'brelә/"
+    },
+    {
+     "chinese": "今天下午可能下雨，所以带上雨伞。",
+     "english": "It might rain this afternoon, so take an umbrella.",
+     "soundmark": "/it/ /mait/ /rein/ /θis/ /'ɑ:ftә'nu:n/ /sәu/ /teik/ /æn/ /ʌm'brelә/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 朋友, 支持者, 赞助者",
+     "english": "friend",
+     "soundmark": "/frend/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "art. 一",
+     "english": "an",
+     "soundmark": "/æn/"
+    },
+    {
+     "chinese": "n. 美国人",
+     "english": "American",
+     "soundmark": "/ә'merikәn/"
+    },
+    {
+     "chinese": "n. 男孩",
+     "english": "boy",
+     "soundmark": "/bɒi/"
+    },
+    {
+     "chinese": "prep. 从, 来自, 根据",
+     "english": "from",
+     "soundmark": "/frɒm/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "New",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 约克郡；约克王朝",
+     "english": "York.",
+     "soundmark": "/jɔ:k/"
+    },
+    {
+     "chinese": "我的新朋友是一个来自纽约的美国男孩。",
+     "english": "My new friend is an American boy from New York.",
+     "soundmark": "/mai/ /nju:/ /frend/ /iz/ /æn/ /ә'merikәn/ /bɒi/ /frɒm/ /nju:/ /jɔ:k/"
+    }
+   ]
+  },
+  {
+   "title": "第7课",
+   "statements": [
+    {
+     "chinese": "vt. 装罐",
+     "english": "Can",
+     "soundmark": "/kæn/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相",
+     "english": "show",
+     "soundmark": "/ʃәu/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 自行车, 脚踏车",
+     "english": "bike?",
+     "soundmark": "/baik/"
+    },
+    {
+     "chinese": "你能给我看看你的新自行车吗？",
+     "english": "Can you show me your new bike?",
+     "soundmark": "/kæn/ /ju:/ /ʃәu/ /mi:/ /juә/ /nju:/ /baik/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "a. 唯一的, 仅有的, 最佳的",
+     "english": "only",
+     "soundmark": "/'әunli/"
+    },
+    {
+     "chinese": "v. 读, 阅读, 理解",
+     "english": "read",
+     "soundmark": "/ri:d/"
+    },
+    {
+     "chinese": "n. 部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位",
+     "english": "part",
+     "soundmark": "/pɑ:t/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book.",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "我只读了这本书的一部分。",
+     "english": "I only read part of the book.",
+     "soundmark": "/ai/ /'әunli/ /ri:d/ /pɑ:t/ /ɒv/ /ðә/ /buk/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "a. 拮据的, 紧张的, 没空的, 忙",
+     "english": "pushed",
+     "soundmark": ""
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 门",
+     "english": "door",
+     "soundmark": "/dɒ:/"
+    },
+    {
+     "chinese": "prep. 反对, 对着, 倚靠",
+     "english": "against",
+     "soundmark": "/ә'geinst/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 墙, 墙壁, 垣, 内壁, 分界物, 屏障",
+     "english": "wall.",
+     "soundmark": "/wɒ:l/"
+    },
+    {
+     "chinese": "他把门推靠在墙上。",
+     "english": "He pushed the door against the wall.",
+     "soundmark": "/hi:/ /ðә/ /dɒ:/ /ә'geinst/ /ðә/ /wɒ:l/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 喜欢的事物, 幸运儿",
+     "english": "favorite",
+     "soundmark": "/'feivәrit/"
+    },
+    {
+     "chinese": "n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位",
+     "english": "place",
+     "soundmark": "/pleis/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 城市, 市",
+     "english": "city.",
+     "soundmark": "/'siti/"
+    },
+    {
+     "chinese": "这是我在这个城市最喜欢的地方。",
+     "english": "This is my favorite place in the city.",
+     "soundmark": "/θis/ /iz/ /mai/ /'feivәrit/ /pleis/ /in/ /ðә/ /'siti/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "adv. 从不, 决不, 不曾",
+     "english": "never",
+     "soundmark": "/'nevә/"
+    },
+    {
+     "chinese": "see的过去分词",
+     "english": "seen",
+     "soundmark": "/si:n/"
+    },
+    {
+     "chinese": "a. 如此的, 这样的",
+     "english": "such",
+     "soundmark": "/sʌtʃ/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 美丽的",
+     "english": "beautiful",
+     "soundmark": "/'bju:tiful/"
+    },
+    {
+     "chinese": "n. 日落, 晚年",
+     "english": "sunset.",
+     "soundmark": "/'sʌnset/"
+    },
+    {
+     "chinese": "我从未见过这么美丽的日落。",
+     "english": "I have never seen such a beautiful sunset.",
+     "soundmark": "/ai/ /hæv/ /'nevә/ /si:n/ /sʌtʃ/ /ei/ /'bju:tiful/ /'sʌnset/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vt. 说, 讲, 念, 说明, 指明",
+     "english": "say",
+     "soundmark": "/sei/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名",
+     "english": "name",
+     "soundmark": "/neim/"
+    },
+    {
+     "chinese": "adv. 再一次, 又, 到原处",
+     "english": "again",
+     "soundmark": "/ә'gein/"
+    },
+    {
+     "chinese": "adv. 慢慢地, 迟缓地",
+     "english": "slowly.",
+     "soundmark": "/'slәuli/"
+    },
+    {
+     "chinese": "请再慢慢说一遍你的名字。",
+     "english": "Please say your name again slowly.",
+     "soundmark": "/pli:z/ /sei/ /juә/ /neim/ /ә'gein/ /'slәuli/"
+    },
+    {
+     "chinese": "a. 很少的, 不多的, 少数的",
+     "english": "Few",
+     "soundmark": "/fju:/"
+    },
+    {
+     "chinese": "n. （尤指大专院校的）学生（student的复数）",
+     "english": "students",
+     "soundmark": ""
+    },
+    {
+     "chinese": "come的过去式",
+     "english": "came",
+     "soundmark": "/keim/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "a. 早的, 早熟的",
+     "english": "early",
+     "soundmark": "/'ә:li/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today.",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "今天只有少数学生早到学校。",
+     "english": "Few students came to school early today.",
+     "soundmark": "/fju:/ /keim/ /tu:/ /sku:l/ /'ә:li/ /tә'dei/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 测试, 试验, 化验, 检验, 考验, 甲壳",
+     "english": "test",
+     "soundmark": "/test/"
+    },
+    {
+     "chinese": "n. 下一个",
+     "english": "next",
+     "soundmark": "/'nekst/"
+    },
+    {
+     "chinese": "n. 星期, 周",
+     "english": "week.",
+     "soundmark": "/wi:k/"
+    },
+    {
+     "chinese": "我们下周要考试。",
+     "english": "We will have a test next week.",
+     "soundmark": "/wi:/ /wil/ /hæv/ /ei/ /test/ /'nekst/ /wi:k/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 父亲, 祖先, 长辈, 神父, 创始者",
+     "english": "father",
+     "soundmark": "/'fɑ:ðә/"
+    },
+    {
+     "chinese": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行",
+     "english": "works",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 公司, 友伴, 交往, 连队, 朋友, 一群",
+     "english": "company.",
+     "soundmark": "/'kʌmpәni/"
+    },
+    {
+     "chinese": "我父亲在一家大公司上班。",
+     "english": "My father works for a big company.",
+     "soundmark": "/mai/ /'fɑ:ðә/ /fɒ:/ /ei/ /big/ /'kʌmpәni/"
+    },
+    {
+     "chinese": "a. 每个, 每一",
+     "english": "Each",
+     "soundmark": "/i:tʃ/"
+    },
+    {
+     "chinese": "n. 学生, 研究者, 学者",
+     "english": "student",
+     "soundmark": "/'stju:dnt/"
+    },
+    {
+     "chinese": "have的第三人称单数现在式",
+     "english": "has",
+     "soundmark": "/hæz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 教科书",
+     "english": "textbook.",
+     "soundmark": "/'tekstbuk/"
+    },
+    {
+     "chinese": "每个学生都有一本新课本。",
+     "english": "Each student has a new textbook.",
+     "soundmark": "/i:tʃ/ /'stju:dnt/ /hæz/ /ei/ /nju:/ /'tekstbuk/"
+    }
+   ]
+  },
+  {
+   "title": "第8课",
+   "statements": [
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "Your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 答案, 回答, 回报, 答辩",
+     "english": "answer",
+     "soundmark": "/'ɑ:nsә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "adv. 完全地, 十分地, 圆满地",
+     "english": "completely",
+     "soundmark": "/kәm'pli:tli/"
+    },
+    {
+     "chinese": "n. 权利, 右边, 正义, 右派, 公正",
+     "english": "right.",
+     "soundmark": "/rait/"
+    },
+    {
+     "chinese": "你的答案完全正确。",
+     "english": "Your answer is completely right.",
+     "soundmark": "/juә/ /'ɑ:nsә/ /iz/ /kәm'pli:tli/ /rait/"
+    },
+    {
+     "chinese": "do的过去式",
+     "english": "Did",
+     "soundmark": "/did/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vt. 听到, 倾听, 听说, 审理",
+     "english": "hear",
+     "soundmark": "/hiә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 善行, 好处, 利益",
+     "english": "good",
+     "soundmark": "/gud/"
+    },
+    {
+     "chinese": "n. 新闻, 消息, 报导",
+     "english": "news",
+     "soundmark": "/nju:z/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today?",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "你今天听到那个好消息了吗？",
+     "english": "Did you hear the good news today?",
+     "soundmark": "/did/ /ju:/ /hiә/ /ðә/ /gud/ /nju:z/ /tә'dei/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "n. 上升, 高地, 增高",
+     "english": "raise",
+     "soundmark": "/reiz/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手",
+     "english": "hand",
+     "soundmark": "/hænd/"
+    },
+    {
+     "chinese": "prep. 在...之前",
+     "english": "before",
+     "soundmark": "/bi'fɒ:/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vi. 问, 要求",
+     "english": "ask",
+     "soundmark": "/ɑ:sk/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 问题, 询问",
+     "english": "question.",
+     "soundmark": "/'kwestʃәn/"
+    },
+    {
+     "chinese": "请先举手再提问。",
+     "english": "Please raise your hand before you ask a question.",
+     "soundmark": "/pli:z/ /reiz/ /juә/ /hænd/ /bi'fɒ:/ /ju:/ /ɑ:sk/ /ei/ /'kwestʃәn/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "adv. 时常, 常常",
+     "english": "often",
+     "soundmark": "/'ɒ:fn/"
+    },
+    {
+     "chinese": "n. 游泳, 漂浮, 潮流, 眩晕",
+     "english": "swim",
+     "soundmark": "/swim/"
+    },
+    {
+     "chinese": "prep. 在...的时候",
+     "english": "during",
+     "soundmark": "/'djuәriŋ/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 夏季, 全盛时期",
+     "english": "summer",
+     "soundmark": "/'sʌmә/"
+    },
+    {
+     "chinese": "n. 假日, 假期, 节日",
+     "english": "holiday.",
+     "soundmark": "/'hɒlәdi/"
+    },
+    {
+     "chinese": "暑假期间我们经常游泳。",
+     "english": "We often swim during the summer holiday.",
+     "soundmark": "/wi:/ /'ɒ:fn/ /swim/ /'djuәriŋ/ /ðә/ /'sʌmә/ /'hɒlәdi/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "pl. 孩子, 孩子们",
+     "english": "children",
+     "soundmark": "/'tʃildrәn/"
+    },
+    {
+     "chinese": "n. 爱, 恋爱, 爱情, 爱好, 性爱",
+     "english": "love",
+     "soundmark": "/lʌv/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本",
+     "english": "play",
+     "soundmark": "/plei/"
+    },
+    {
+     "chinese": "n. 足球, 橄榄球",
+     "english": "football",
+     "soundmark": "/'futbɒ:l/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "after",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "孩子们喜欢放学后踢足球。",
+     "english": "The children love to play football after school.",
+     "soundmark": "/ðә/ /'tʃildrәn/ /lʌv/ /tu:/ /plei/ /'futbɒ:l/ /'ɑ:ftә/ /sku:l/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 政府, 内阁",
+     "english": "government",
+     "soundmark": "/'gʌvәnmәnt/"
+    },
+    {
+     "chinese": "build的过去式和过去分词",
+     "english": "built",
+     "soundmark": "/bilt/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 医院",
+     "english": "hospital",
+     "soundmark": "/'hɒspitәl/"
+    },
+    {
+     "chinese": "adv. 在这里, 此时, 这里",
+     "english": "here.",
+     "soundmark": "/hiә/"
+    },
+    {
+     "chinese": "政府在这里新建了一家医院。",
+     "english": "The government built a new hospital here.",
+     "soundmark": "/ðә/ /'gʌvәnmәnt/ /bilt/ /ei/ /nju:/ /'hɒspitәl/ /hiә/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续",
+     "english": "run",
+     "soundmark": "/rʌn/"
+    },
+    {
+     "chinese": "prep. 包围, 在...周围, 四处",
+     "english": "around",
+     "soundmark": "/ә'raund/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 早晨, 早上, 初期",
+     "english": "morning.",
+     "soundmark": "/'mɒ:niŋ/"
+    },
+    {
+     "chinese": "我每天早上绕着公园跑步。",
+     "english": "I run around the park every morning.",
+     "soundmark": "/ai/ /rʌn/ /ә'raund/ /ðә/ /pɑ:k/ /'evri/ /'mɒ:niŋ/"
+    },
+    {
+     "chinese": "pron. 他们, 它们",
+     "english": "They",
+     "soundmark": "/ðei/"
+    },
+    {
+     "chinese": "a. 活的, 生动的, 精力充沛的, 实况转播的",
+     "english": "live",
+     "soundmark": "/liv.laiv/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的",
+     "english": "small",
+     "soundmark": "/smɒ:l/"
+    },
+    {
+     "chinese": "n. 城镇, 市, 镇",
+     "english": "town",
+     "soundmark": "/taun/"
+    },
+    {
+     "chinese": "a. 近的, 近亲的, 近似的",
+     "english": "near",
+     "soundmark": "/niә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 海, 海洋, 海浪, 大量",
+     "english": "sea.",
+     "soundmark": "/si:/"
+    },
+    {
+     "chinese": "他们住在海边的一个小镇上。",
+     "english": "They live in a small town near the sea.",
+     "soundmark": "/ðei/ /liv.laiv/ /in/ /ei/ /smɒ:l/ /taun/ /niә/ /ðә/ /si:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "A",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 数, 数字, 数目, 号码",
+     "english": "number",
+     "soundmark": "/'nʌmbә/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "n. 访问者, 游客（visitor 复数）",
+     "english": "visitors",
+     "soundmark": ""
+    },
+    {
+     "chinese": "vi. 过来, 来, 到达, 出现, 开始",
+     "english": "come",
+     "soundmark": "/kʌm/"
+    },
+    {
+     "chinese": "adv. 在这里, 此时, 这里",
+     "english": "here",
+     "soundmark": "/hiә/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 年, 年度, 年龄",
+     "english": "year.",
+     "soundmark": "/jiә/"
+    },
+    {
+     "chinese": "每年都有许多游客来这里。",
+     "english": "A number of visitors come here every year.",
+     "soundmark": "/ei/ /'nʌmbә/ /ɒv/ /kʌm/ /hiә/ /'evri/ /jiә/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+     "english": "take",
+     "soundmark": "/teik/"
+    },
+    {
+     "chinese": "a. 关着的, 不再生效的, 处于...境况的, 休假的, 空闲的",
+     "english": "off",
+     "soundmark": "/ɒf/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 鞋子（shoe的复数）",
+     "english": "shoes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 门",
+     "english": "door.",
+     "soundmark": "/dɒ:/"
+    },
+    {
+     "chinese": "请在门口把鞋脱掉。",
+     "english": "Please take off your shoes at the door.",
+     "soundmark": "/pli:z/ /teik/ /ɒf/ /juә/ /æt/ /ðә/ /dɒ:/"
+    }
+   ]
+  },
+  {
+   "title": "第9课",
+   "statements": [
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "adv. 总是, 始终",
+     "english": "always",
+     "soundmark": "/'ɒ:lweiz/"
+    },
+    {
+     "chinese": "abbr. 高端激光打印解决方案（High-End Laser Printing Solutions）",
+     "english": "helps",
+     "soundmark": ""
+    },
+    {
+     "chinese": "pron. 她的, 她",
+     "english": "her",
+     "soundmark": "/hә:/"
+    },
+    {
+     "chinese": "n. 老友记（剧集）",
+     "english": "friends",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 和...在一起, 以, 由于",
+     "english": "with",
+     "soundmark": "/wið/"
+    },
+    {
+     "chinese": "pron. 他们的",
+     "english": "their",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "n. 家庭作业, 家里做的工作",
+     "english": "homework.",
+     "soundmark": "/'hәumwә:k/"
+    },
+    {
+     "chinese": "她总是帮朋友们做作业。",
+     "english": "She always helps her friends with their homework.",
+     "soundmark": "/ʃi:/ /'ɒ:lweiz/ /hә:/ /wið/ /ðєә/ /'hәumwә:k/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "n. 移动, 迁居, 步骤",
+     "english": "move",
+     "soundmark": "/mu:v/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 城市, 市",
+     "english": "city",
+     "soundmark": "/'siti/"
+    },
+    {
+     "chinese": "n. 下一个",
+     "english": "next",
+     "soundmark": "/'nekst/"
+    },
+    {
+     "chinese": "n. 年, 年度, 年龄",
+     "english": "year.",
+     "soundmark": "/jiә/"
+    },
+    {
+     "chinese": "我们明年将搬到一个新城市。",
+     "english": "We will move to a new city next year.",
+     "soundmark": "/wi:/ /wil/ /mu:v/ /tu:/ /ei/ /nju:/ /'siti/ /'nekst/ /jiә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 明星类, 明星（star的复数形式）",
+     "english": "stars",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 光泽, 阳光",
+     "english": "shine",
+     "soundmark": "/ʃain/"
+    },
+    {
+     "chinese": "adv. 生辉地, 明亮地, 鲜明地",
+     "english": "brightly",
+     "soundmark": "/'braitli/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作",
+     "english": "night",
+     "soundmark": "/nait/"
+    },
+    {
+     "chinese": "n. 天空, 天色, 天堂",
+     "english": "sky.",
+     "soundmark": "/skai/"
+    },
+    {
+     "chinese": "星星在夜空中明亮地闪耀。",
+     "english": "The stars shine brightly in the night sky.",
+     "soundmark": "/ðә/ /ʃain/ /'braitli/ /in/ /ðә/ /nait/ /skai/"
+    },
+    {
+     "chinese": "n. 多数, 多数人",
+     "english": "Many",
+     "soundmark": "/'meni/"
+    },
+    {
+     "chinese": "n. 人, 人民, 民族, 平民",
+     "english": "people",
+     "soundmark": "/'pi:pl/"
+    },
+    {
+     "chinese": "a. 活的, 生动的, 精力充沛的, 实况转播的",
+     "english": "live",
+     "soundmark": "/liv.laiv/"
+    },
+    {
+     "chinese": "a. 近的, 近亲的, 近似的",
+     "english": "near",
+     "soundmark": "/niә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 河, 江",
+     "english": "river",
+     "soundmark": "/'rivә/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 城镇, 市, 镇",
+     "english": "town.",
+     "soundmark": "/taun/"
+    },
+    {
+     "chinese": "在我家乡，许多人住在河边。",
+     "english": "Many people live near the river in my town.",
+     "soundmark": "/'meni/ /'pi:pl/ /liv.laiv/ /niә/ /ðә/ /'rivә/ /in/ /mai/ /taun/"
+    },
+    {
+     "chinese": "vt. 装罐",
+     "english": "Can",
+     "soundmark": "/kæn/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 点, 小数点, 标点, 地点, 要点, 特点, 尖端, 分数, 得分, 穴位",
+     "english": "point",
+     "soundmark": "/pɒint/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 地图, 天体图, 映像",
+     "english": "map?",
+     "soundmark": "/mæp/"
+    },
+    {
+     "chinese": "你能在这张地图上指出学校在哪里吗？",
+     "english": "Can you point at the school on this map?",
+     "soundmark": "/kæn/ /ju:/ /pɒint/ /æt/ /ðә/ /sku:l/ /ɒn/ /θis/ /mæp/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "v. 相信",
+     "english": "believe",
+     "soundmark": "/bi'li:v/"
+    },
+    {
+     "chinese": "a. 那, 那个",
+     "english": "that",
+     "soundmark": "/ðæt/"
+    },
+    {
+     "chinese": "a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的",
+     "english": "hard",
+     "soundmark": "/hɑ:d/"
+    },
+    {
+     "chinese": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程",
+     "english": "work",
+     "soundmark": "/wә:k/"
+    },
+    {
+     "chinese": "v. 带来；使发生（bring的三单形式）",
+     "english": "brings",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 善行, 好处, 利益",
+     "english": "good",
+     "soundmark": "/gud/"
+    },
+    {
+     "chinese": "n. 结果；成绩（result的复数）",
+     "english": "results.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "我相信努力会带来好结果。",
+     "english": "I believe that hard work brings good results.",
+     "soundmark": "/ai/ /bi'li:v/ /ðæt/ /hɑ:d/ /wә:k/ /gud/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "n. 把握, 把持力, 柄, 控制, 掌握, 监禁",
+     "english": "hold",
+     "soundmark": "/hәuld/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手",
+     "english": "hand",
+     "soundmark": "/hænd/"
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交",
+     "english": "cross",
+     "soundmark": "/krɒs/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 街道, 马路, 街区",
+     "english": "street.",
+     "soundmark": "/stri:t/"
+    },
+    {
+     "chinese": "过马路时请牵着我的手。",
+     "english": "Please hold my hand when we cross the street.",
+     "soundmark": "/pli:z/ /hәuld/ /mai/ /hænd/ /hwen/ /wi:/ /krɒs/ /ðә/ /stri:t/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "Today",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "vt. 学习；认识到；得知",
+     "english": "learn",
+     "soundmark": "/lә:n/"
+    },
+    {
+     "chinese": "pron. 某事, 某物",
+     "english": "something",
+     "soundmark": "/'sʌmθiŋ/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class.",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "今天我们将在课上学习新东西。",
+     "english": "Today we will learn something new in class.",
+     "soundmark": "/tә'dei/ /wi:/ /wil/ /lә:n/ /'sʌmθiŋ/ /nju:/ /in/ /klɑ:s/"
+    },
+    {
+     "chinese": "vt. 记得, 回忆起, 记住, 铭记, 纪念",
+     "english": "Remember",
+     "soundmark": "/ri'membә/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vt. 带来, 产生, 促使, 提出",
+     "english": "bring",
+     "soundmark": "/briŋ/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 字典, 词典",
+     "english": "dictionary",
+     "soundmark": "/'dikʃәnәri/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "记得把词典带到学校来。",
+     "english": "Remember to bring your dictionary to school.",
+     "soundmark": "/ri'membә/ /tu:/ /briŋ/ /juә/ /'dikʃәnәri/ /tu:/ /sku:l/"
+    },
+    {
+     "chinese": "pron. 什么",
+     "english": "What",
+     "soundmark": "/hwɒt/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "vi. 发生, 发生, 恰巧",
+     "english": "happen",
+     "soundmark": "/'hæpәn/"
+    },
+    {
+     "chinese": "conj. 如果, 是否, 无论何时, 假设, 即使",
+     "english": "if",
+     "soundmark": "/if/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 失误, 避免, 失败, 小姐",
+     "english": "miss",
+     "soundmark": "/mis/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公共汽车",
+     "english": "bus?",
+     "soundmark": "/bʌs/"
+    },
+    {
+     "chinese": "如果我们错过公交车会怎么样？",
+     "english": "What will happen if we miss the bus?",
+     "soundmark": "/hwɒt/ /wil/ /'hæpәn/ /if/ /wi:/ /mis/ /ðә/ /bʌs/"
+    }
+   ]
+  },
+  {
+   "title": "第10课",
+   "statements": [
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 图书馆, 藏书, 库",
+     "english": "library",
+     "soundmark": "/'laibrәri/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "n. 下一个",
+     "english": "next",
+     "soundmark": "/'nekst/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park.",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "图书馆在大公园旁边。",
+     "english": "The library is next to the big park.",
+     "soundmark": "/ðә/ /'laibrәri/ /iz/ /'nekst/ /tu:/ /ðә/ /big/ /pɑ:k/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "You",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "aux. 无法, 不能",
+     "english": "cannot",
+     "soundmark": "/'kænɒt/"
+    },
+    {
+     "chinese": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器",
+     "english": "drive",
+     "soundmark": "/draiv/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 汽车, 客车",
+     "english": "car",
+     "soundmark": "/kɑ:/"
+    },
+    {
+     "chinese": "prep. 没有, 不, 在...之外",
+     "english": "without",
+     "soundmark": "/wi'ðaut/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 执照, 许可证, 特许",
+     "english": "license.",
+     "soundmark": "/'laisns/"
+    },
+    {
+     "chinese": "没有驾照你不能开车。",
+     "english": "You cannot drive a car without a license.",
+     "soundmark": "/ju:/ /'kænɒt/ /draiv/ /ei/ /kɑ:/ /wi'ðaut/ /ei/ /'laisns/"
+    },
+    {
+     "chinese": "n. 洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地",
+     "english": "Wash",
+     "soundmark": "/wɒʃ/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 拥有, 所有",
+     "english": "hands",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...之前",
+     "english": "before",
+     "soundmark": "/bi'fɒ:/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "v. 吃, 腐蚀",
+     "english": "eat",
+     "soundmark": "/i:t/"
+    },
+    {
+     "chinese": "n. 晚餐, 正餐, 宴会",
+     "english": "dinner.",
+     "soundmark": "/'dinә/"
+    },
+    {
+     "chinese": "吃晚饭前要洗手。",
+     "english": "Wash your hands before you eat dinner.",
+     "soundmark": "/wɒʃ/ /juә/ /bi'fɒ:/ /ju:/ /i:t/ /'dinә/"
+    },
+    {
+     "chinese": "pron. 我们的",
+     "english": "Our",
+     "soundmark": "/'auә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "have的第三人称单数现在式",
+     "english": "has",
+     "soundmark": "/hæz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 大量的, 宽大的, 广博的",
+     "english": "large",
+     "soundmark": "/lɑ:dʒ/"
+    },
+    {
+     "chinese": "n. 运动场, 操场, 度假胜地, 活动场所",
+     "english": "playground",
+     "soundmark": "/'pleigraund/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. (英)运动会, 运动的, 适用于运动的, 运动会的, 与运动会有关的",
+     "english": "sports.",
+     "soundmark": "/spɔ:ts/"
+    },
+    {
+     "chinese": "我们学校有一个大操场用于运动。",
+     "english": "Our school has a large playground for sports.",
+     "soundmark": "/'auә/ /sku:l/ /hæz/ /ei/ /lɑ:dʒ/ /'pleigraund/ /fɒ:/ /spɔ:ts/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "You",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "n. 必须, 未发酵葡萄汁, 绝对必要的事物",
+     "english": "must",
+     "soundmark": "/mʌst/"
+    },
+    {
+     "chinese": "n. 完成, 结束, 末道漆, 磨光, 完美",
+     "english": "finish",
+     "soundmark": "/'finiʃ/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 家庭作业, 家里做的工作",
+     "english": "homework",
+     "soundmark": "/'hәumwә:k/"
+    },
+    {
+     "chinese": "prep. 在...之前",
+     "english": "before",
+     "soundmark": "/bi'fɒ:/"
+    },
+    {
+     "chinese": "n. 就寝时间",
+     "english": "bedtime.",
+     "soundmark": "/'bedtaim/"
+    },
+    {
+     "chinese": "你必须在睡前完成作业。",
+     "english": "You must finish your homework before bedtime.",
+     "soundmark": "/ju:/ /mʌst/ /'finiʃ/ /juә/ /'hәumwә:k/ /bi'fɒ:/ /'bedtaim/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 兄弟",
+     "english": "brother",
+     "soundmark": "/'brʌðә/"
+    },
+    {
+     "chinese": "n. 搭板, 跳板",
+     "english": "walks",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 家, 避难所, 故乡",
+     "english": "home",
+     "soundmark": "/hәum/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "after",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "我哥哥每天放学后走回家。",
+     "english": "My brother walks home after school every day.",
+     "soundmark": "/mai/ /'brʌðә/ /hәum/ /'ɑ:ftә/ /sku:l/ /'evri/ /dei/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 猫, 恶妇",
+     "english": "cat",
+     "soundmark": "/kæt/"
+    },
+    {
+     "chinese": "n. 爱好的事物",
+     "english": "likes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠",
+     "english": "sleep",
+     "soundmark": "/sli:p/"
+    },
+    {
+     "chinese": "prep. 在...之下, 低于",
+     "english": "under",
+     "soundmark": "/'ʌndә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的",
+     "english": "warm",
+     "soundmark": "/wɒ:m/"
+    },
+    {
+     "chinese": "n. 床, 睡眠处, 河床, 底座, 路基, 一层",
+     "english": "bed.",
+     "soundmark": "/bed/"
+    },
+    {
+     "chinese": "猫喜欢睡在暖和的床下面。",
+     "english": "The cat likes to sleep under the warm bed.",
+     "soundmark": "/ðә/ /kæt/ /tu:/ /sli:p/ /'ʌndә/ /ðә/ /wɒ:m/ /bed/"
+    },
+    {
+     "chinese": "n. 植物；工厂（plant的复数形式）",
+     "english": "Plants",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 需要, 必须, 缺乏",
+     "english": "need",
+     "soundmark": "/ni:d/"
+    },
+    {
+     "chinese": "n. 水, 雨水, 海水, 水位, 水面, 流水",
+     "english": "water",
+     "soundmark": "/'wɒ:tә/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "n. 日光",
+     "english": "sunlight",
+     "soundmark": "/'sʌnlait/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vt. 种植, 使长满",
+     "english": "grow",
+     "soundmark": "/grәu/"
+    },
+    {
+     "chinese": "n. 井, 泉水, 源泉, 好",
+     "english": "well.",
+     "soundmark": "/wel/"
+    },
+    {
+     "chinese": "植物需要水和阳光才能长得好。",
+     "english": "Plants need water and sunlight to grow well.",
+     "soundmark": "/ni:d/ /'wɒ:tә/ /ænd/ /'sʌnlait/ /tu:/ /grәu/ /wel/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "n. 充足, 够, 很多",
+     "english": "enough",
+     "soundmark": "/i'nʌf/"
+    },
+    {
+     "chinese": "n. 房间, 空位, 场所",
+     "english": "room",
+     "soundmark": "/ru:m/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "num. 四, 四个",
+     "english": "four",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. 人, 人民, 民族, 平民",
+     "english": "people",
+     "soundmark": "/'pi:pl/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 汽车, 客车",
+     "english": "car.",
+     "soundmark": "/kɑ:/"
+    },
+    {
+     "chinese": "车里 room 足够，可以坐四个人。",
+     "english": "There is enough room for four people in the car.",
+     "soundmark": "/ðєә/ /iz/ /i'nʌf/ /ru:m/ /fɒ:/ /fɒ:/ /'pi:pl/ /in/ /ðә/ /kɑ:/"
+    },
+    {
+     "chinese": "vt. 书写, 著述, 写, 写满, 写信给",
+     "english": "Write",
+     "soundmark": "/rait/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名",
+     "english": "name",
+     "soundmark": "/neim/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺",
+     "english": "top",
+     "soundmark": "/tɒp/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 页, 记录, 事件, 专栏, 男侍",
+     "english": "page.",
+     "soundmark": "/peidʒ/"
+    },
+    {
+     "chinese": "把你的名字写在页面顶端。",
+     "english": "Write your name at the top of the page.",
+     "soundmark": "/rait/ /juә/ /neim/ /æt/ /ðә/ /tɒp/ /ɒv/ /ðә/ /peidʒ/"
+    }
+   ]
+  },
+  {
+   "title": "第11课",
+   "statements": [
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 母亲, 修女院长",
+     "english": "mother",
+     "soundmark": "/'mʌðә/"
+    },
+    {
+     "chinese": "n. 一般的厨师和炊事人员（cook的复数形式）",
+     "english": "cooks",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 早餐",
+     "english": "breakfast",
+     "soundmark": "/'brekfәst/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 早晨, 早上, 初期",
+     "english": "morning.",
+     "soundmark": "/'mɒ:niŋ/"
+    },
+    {
+     "chinese": "我妈妈每天早上给我做饭。",
+     "english": "My mother cooks breakfast for me every morning.",
+     "soundmark": "/mai/ /'mʌðә/ /'brekfәst/ /fɒ:/ /mi:/ /'evri/ /'mɒ:niŋ/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "This",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 区域, 面积, 范围, 空地",
+     "english": "area",
+     "soundmark": "/'єәriә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 出名的, 极好的",
+     "english": "famous",
+     "soundmark": "/'feimәs/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 它的",
+     "english": "its",
+     "soundmark": "/its/"
+    },
+    {
+     "chinese": "a. 美丽的",
+     "english": "beautiful",
+     "soundmark": "/'bju:tiful/"
+    },
+    {
+     "chinese": "n. 色淀；湖泊, 湖畔",
+     "english": "lakes.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "这个地区以美丽的湖泊而闻名。",
+     "english": "This area is famous for its beautiful lakes.",
+     "soundmark": "/θis/ /'єәriә/ /iz/ /'feimәs/ /fɒ:/ /its/ /'bju:tiful/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "were",
+     "soundmark": "/wә:/"
+    },
+    {
+     "chinese": "n. 多数, 多数人",
+     "english": "many",
+     "soundmark": "/'meni/"
+    },
+    {
+     "chinese": "n. 人, 人民, 民族, 平民",
+     "english": "people",
+     "soundmark": "/'pi:pl/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "a. 国家的, 国立的, 全国性的, 民族的",
+     "english": "National",
+     "soundmark": "/'næʃәnәl/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "Day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "国庆节那天公园里人很多。",
+     "english": "There were many people in the park on National Day.",
+     "soundmark": "/ðєә/ /wә:/ /'meni/ /'pi:pl/ /in/ /ðә/ /pɑ:k/ /ɒn/ /'næʃәnәl/ /dei/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "a. 已保存的；获救的",
+     "english": "saved",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 金钱, 一笔款, 财富, 货币, 金额",
+     "english": "money",
+     "soundmark": "/'mʌni/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 月",
+     "english": "month",
+     "soundmark": "/mʌnθ/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "vt. 买, 获得",
+     "english": "buy",
+     "soundmark": "/bai/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book.",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "为了买这本书，他攒了一个月的钱。",
+     "english": "He saved money for a month to buy the book.",
+     "soundmark": "/hi:/ /'mʌni/ /fɒ:/ /ei/ /mʌnθ/ /tu:/ /bai/ /ðә/ /buk/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 奶奶, 外婆",
+     "english": "grandma",
+     "soundmark": "/'grændmɑ:/"
+    },
+    {
+     "chinese": "adv. 时常, 常常",
+     "english": "often",
+     "soundmark": "/'ɒ:fn/"
+    },
+    {
+     "chinese": "v. 告诉；说（tell的第三人称单数）",
+     "english": "tells",
+     "soundmark": ""
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层",
+     "english": "story",
+     "soundmark": "/'stɒ:ri/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作",
+     "english": "night.",
+     "soundmark": "/nait/"
+    },
+    {
+     "chinese": "我奶奶经常在晚上给我讲故事。",
+     "english": "My grandma often tells me a story at night.",
+     "soundmark": "/mai/ /'grændmɑ:/ /'ɒ:fn/ /mi:/ /ei/ /'stɒ:ri/ /æt/ /nait/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 年轻的, 无经验的, 朝气蓬勃的",
+     "english": "young",
+     "soundmark": "/jʌŋ/"
+    },
+    {
+     "chinese": "n. 男人, 人类, 人",
+     "english": "man",
+     "soundmark": "/mæn/"
+    },
+    {
+     "chinese": "n. 练习题, 演习；运动",
+     "english": "exercises",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "那个年轻人每天在公园里锻炼。",
+     "english": "The young man exercises in the park every day.",
+     "soundmark": "/ðә/ /jʌŋ/ /mæn/ /in/ /ðә/ /pɑ:k/ /'evri/ /dei/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "In",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "n. 事实, 真实性, 真相, 细节, 论据",
+     "english": "fact,",
+     "soundmark": "/fækt/"
+    },
+    {
+     "chinese": "pron. 她",
+     "english": "she",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行",
+     "english": "works",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的",
+     "english": "hard",
+     "soundmark": "/hɑ:d/"
+    },
+    {
+     "chinese": "prep. 在, 向, 对",
+     "english": "at",
+     "soundmark": "/æt/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "事实上，她学习非常努力。",
+     "english": "In fact, she works very hard at school.",
+     "soundmark": "/in/ /fækt/ /ʃi:/ /'veri/ /hɑ:d/ /æt/ /sku:l/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+     "english": "take",
+     "soundmark": "/teik/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
+     "english": "trip",
+     "soundmark": "/trip/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 上海, 浦东鸡",
+     "english": "Shanghai",
+     "soundmark": "/'ʃæŋhai/"
+    },
+    {
+     "chinese": "n. 下一个",
+     "english": "next",
+     "soundmark": "/'nekst/"
+    },
+    {
+     "chinese": "n. 月",
+     "english": "month.",
+     "soundmark": "/mʌnθ/"
+    },
+    {
+     "chinese": "下个月我们要去上海旅行。",
+     "english": "We will take a trip to Shanghai next month.",
+     "soundmark": "/wi:/ /wil/ /teik/ /ei/ /trip/ /tu:/ /'ʃæŋhai/ /'nekst/ /mʌnθ/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 书包",
+     "english": "schoolbag",
+     "soundmark": "/'sku:lbæ^/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 不同的",
+     "english": "different",
+     "soundmark": "/'difәrәnt/"
+    },
+    {
+     "chinese": "prep. 从, 来自, 根据",
+     "english": "from",
+     "soundmark": "/frɒm/"
+    },
+    {
+     "chinese": "pron. 你的(东西), 你们的(东西)",
+     "english": "yours.",
+     "soundmark": "/juәz/"
+    },
+    {
+     "chinese": "我的书包和你的不同。",
+     "english": "My schoolbag is different from yours.",
+     "soundmark": "/mai/ /'sku:lbæ^/ /iz/ /'difәrәnt/ /frɒm/ /juәz/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. （尤指大专院校的）学生（student的复数）",
+     "english": "students",
+     "soundmark": ""
+    },
+    {
+     "chinese": "a. 有学问的, 学术上的",
+     "english": "learned",
+     "soundmark": "/'lә:nid/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 运气, 签, 抽签, 份额, 许多, 一堆",
+     "english": "lot",
+     "soundmark": "/lɒt/"
+    },
+    {
+     "chinese": "prep. 从, 来自, 根据",
+     "english": "from",
+     "soundmark": "/frɒm/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book.",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "学生们从这本书里学到了很多东西。",
+     "english": "The students learned a lot from the book.",
+     "soundmark": "/ðә/ /'lә:nid/ /ei/ /lɒt/ /frɒm/ /ðә/ /buk/"
+    }
+   ]
+  },
+  {
+   "title": "第12课",
+   "statements": [
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作",
+     "english": "study",
+     "soundmark": "/'stʌdi/"
+    },
+    {
+     "chinese": "n. 英语",
+     "english": "English",
+     "soundmark": "/'iŋgliʃ/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "art. 一",
+     "english": "an",
+     "soundmark": "/æn/"
+    },
+    {
+     "chinese": "n. 小时, 钟头, 时间, ...点钟, 课时",
+     "english": "hour",
+     "soundmark": "/auә/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 傍晚, 晚间, 末期",
+     "english": "evening.",
+     "soundmark": "/'i:vniŋ/"
+    },
+    {
+     "chinese": "我每天晚上学习英语一个小时。",
+     "english": "I study English for an hour every evening.",
+     "soundmark": "/ai/ /'stʌdi/ /'iŋgliʃ/ /fɒ:/ /æn/ /auә/ /'evri/ /'i:vniŋ/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 父亲, 祖先, 长辈, 神父, 创始者",
+     "english": "father",
+     "soundmark": "/'fɑ:ðә/"
+    },
+    {
+     "chinese": "n. 爱好的事物",
+     "english": "likes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "v. 读, 阅读, 理解",
+     "english": "read",
+     "soundmark": "/ri:d/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 书, 书籍, 帐簿, 名册, 工作簿",
+     "english": "book",
+     "soundmark": "/buk/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "adv. 在每周末",
+     "english": "weekends.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "我爸爸喜欢在周末读书。",
+     "english": "My father likes to read a book on weekends.",
+     "soundmark": "/mai/ /'fɑ:ðә/ /tu:/ /ri:d/ /ei/ /buk/ /ɒn/"
+    },
+    {
+     "chinese": "pron. 她的, 她",
+     "english": "Her",
+     "soundmark": "/hә:/"
+    },
+    {
+     "chinese": "n. 眼睛（eye的复数）",
+     "english": "eyes",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 光泽, 阳光",
+     "english": "shine",
+     "soundmark": "/ʃain/"
+    },
+    {
+     "chinese": "adv. 生辉地, 明亮地, 鲜明地",
+     "english": "brightly",
+     "soundmark": "/'braitli/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 黑暗, 夜, 黄昏, 模糊",
+     "english": "dark.",
+     "soundmark": "/dɑ:k/"
+    },
+    {
+     "chinese": "她的眼睛在黑暗中闪闪发光。",
+     "english": "Her eyes shine brightly in the dark.",
+     "soundmark": "/hә:/ /ʃain/ /'braitli/ /in/ /ðә/ /dɑ:k/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "vt. 建立, 创立, 铸造",
+     "english": "found",
+     "soundmark": "/faund/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 新的, 陌生的, 最近的, 不熟悉的",
+     "english": "new",
+     "soundmark": "/nju:/"
+    },
+    {
+     "chinese": "n. 工作, 零活, 职业, 事情",
+     "english": "job",
+     "soundmark": "/dʒɒb/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 医院",
+     "english": "hospital.",
+     "soundmark": "/'hɒspitәl/"
+    },
+    {
+     "chinese": "他在医院找到了一份新工作。",
+     "english": "He found a new job in the hospital.",
+     "soundmark": "/hi:/ /faund/ /ei/ /nju:/ /dʒɒb/ /in/ /ðә/ /'hɒspitәl/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "(= do not)不要",
+     "english": "don't",
+     "soundmark": "/dәunt/"
+    },
+    {
+     "chinese": "v. 知道, 了解, 认识, 确信",
+     "english": "know",
+     "soundmark": "/nәu/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 中文, 中国话, 中国人",
+     "english": "Chinese",
+     "soundmark": "/tʃai'ni:z/"
+    },
+    {
+     "chinese": "n. 意义, 含义, 目的, 意图",
+     "english": "meaning",
+     "soundmark": "/'mi:niŋ/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 话, 消息, 词, 诺言, 命令",
+     "english": "word.",
+     "soundmark": "/wә:d/"
+    },
+    {
+     "chinese": "我不知道这个词的中文意思。",
+     "english": "I don't know the Chinese meaning of this word.",
+     "soundmark": "/ai/ /dәunt/ /nәu/ /ðә/ /tʃai'ni:z/ /'mi:niŋ/ /ɒv/ /θis/ /wә:d/"
+    },
+    {
+     "chinese": "adv. 然而, 可是",
+     "english": "Though",
+     "soundmark": "/ðәu/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "it",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "下雨（rain的过去式）",
+     "english": "rained,",
+     "soundmark": ""
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 蒸馏室, 寂静, 剧照",
+     "english": "still",
+     "soundmark": "/stil/"
+    },
+    {
+     "chinese": "go的过去式",
+     "english": "went",
+     "soundmark": "/went/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本",
+     "english": "play",
+     "soundmark": "/plei/"
+    },
+    {
+     "chinese": "n. 篮球",
+     "english": "basketball.",
+     "soundmark": "/'bɑ:skitbɒ:l/"
+    },
+    {
+     "chinese": "虽然下雨了，我们还是去打篮球了。",
+     "english": "Though it rained, we still went to play basketball.",
+     "soundmark": "/ðәu/ /it/ /wi:/ /stil/ /went/ /tu:/ /plei/ /'bɑ:skitbɒ:l/"
+    },
+    {
+     "chinese": "pron. 他的",
+     "english": "His",
+     "soundmark": "/hiz/"
+    },
+    {
+     "chinese": "爷爷, 老太爷, 外公",
+     "english": "grandpa",
+     "soundmark": "/'^rænpɑ:, '^rændpɑ:/"
+    },
+    {
+     "chinese": "n. 顺串；泻肚子；流量（run的复数形式）",
+     "english": "runs",
+     "soundmark": ""
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的",
+     "english": "small",
+     "soundmark": "/smɒ:l/"
+    },
+    {
+     "chinese": "n. 生意, 事情, 业务, 商业, 商行, 职责",
+     "english": "business",
+     "soundmark": "/'biznis/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "n. 城镇, 市, 镇",
+     "english": "town.",
+     "soundmark": "/taun/"
+    },
+    {
+     "chinese": "他爷爷经营一家小公司。",
+     "english": "His grandpa runs a small business in town.",
+     "soundmark": "/hiz/ /'^rænpɑ:, '^rændpɑ:/ /ei/ /smɒ:l/ /'biznis/ /in/ /taun/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在时复数或第二人称单数",
+     "english": "are",
+     "soundmark": "/ɑ:/"
+    },
+    {
+     "chinese": "num. 四, 四个",
+     "english": "four",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. 铅笔, 彩色铅笔( pencil的名词复数 ); 光线锥",
+     "english": "pencils",
+     "soundmark": "/ˈpensəlz/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 盒子, 箱, 方框, 一巴掌",
+     "english": "box.",
+     "soundmark": "/bɒks/"
+    },
+    {
+     "chinese": "这个盒子里有四支铅笔。",
+     "english": "There are four pencils in this box.",
+     "soundmark": "/ðєә/ /ɑ:/ /fɒ:/ /ˈpensəlz/ /in/ /θis/ /bɒks/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的",
+     "english": "small",
+     "soundmark": "/smɒ:l/"
+    },
+    {
+     "chinese": "n. 商店, 工厂, 车间",
+     "english": "shop",
+     "soundmark": "/ʃɒp/"
+    },
+    {
+     "chinese": "prep. 在...之上",
+     "english": "on",
+     "soundmark": "/ɒn/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 旁边, 侧, 方面, 胁, 侧边, 血统",
+     "english": "side",
+     "soundmark": "/said/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "学校旁边有一家小商店。",
+     "english": "There is a small shop on the side of the school.",
+     "soundmark": "/ðєә/ /iz/ /ei/ /smɒ:l/ /ʃɒp/ /ɒn/ /ðә/ /said/ /ɒv/ /ðә/ /sku:l/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "n. 种类, 性质, 方式",
+     "english": "kind",
+     "soundmark": "/kaind/"
+    },
+    {
+     "chinese": "prep. 的, 属于",
+     "english": "of",
+     "soundmark": "/ɒv/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 帮忙, 帮助者, 补救办法, 有益的东西",
+     "english": "help",
+     "soundmark": "/help/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作",
+     "english": "study",
+     "soundmark": "/'stʌdi/"
+    },
+    {
+     "chinese": "n. 数学",
+     "english": "math.",
+     "soundmark": "/mæθ/"
+    },
+    {
+     "chinese": "你真是太好了，帮我学习数学。",
+     "english": "It is very kind of you to help me study math.",
+     "soundmark": "/it/ /iz/ /'veri/ /kaind/ /ɒv/ /ju:/ /tu:/ /help/ /mi:/ /'stʌdi/ /mæθ/"
+    }
+   ]
+  },
+  {
+   "title": "第13课",
+   "statements": [
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "shake的过去式",
+     "english": "shook",
+     "soundmark": "/ʃuk/"
+    },
+    {
+     "chinese": "pron. 她的, 她",
+     "english": "her",
+     "soundmark": "/hә:/"
+    },
+    {
+     "chinese": "n. 头, 头脑, 领袖, 脑袋, 最前的部分",
+     "english": "head",
+     "soundmark": "/hed/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "vbl. 以微笑表示；微笑",
+     "english": "smiled",
+     "soundmark": ""
+    },
+    {
+     "chinese": "adv. 幸福地, 快乐地, 幸好",
+     "english": "happily.",
+     "soundmark": "/'hæpili/"
+    },
+    {
+     "chinese": "她摇了摇头，笑了起来。",
+     "english": "She shook her head and smiled happily.",
+     "soundmark": "/ʃi:/ /ʃuk/ /hә:/ /hed/ /ænd/ /'hæpili/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 远的, 久远的, 遥远的",
+     "english": "far",
+     "soundmark": "/fɑ:/"
+    },
+    {
+     "chinese": "prep. 从, 来自, 根据",
+     "english": "from",
+     "soundmark": "/frɒm/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 家, 避难所, 故乡",
+     "english": "home.",
+     "soundmark": "/hәum/"
+    },
+    {
+     "chinese": "学校离我家很远。",
+     "english": "The school is far from my home.",
+     "soundmark": "/ðә/ /sku:l/ /iz/ /fɑ:/ /frɒm/ /mai/ /hәum/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 穿用的, 使疲惫的, 磨损的",
+     "english": "wearing",
+     "soundmark": "/'wєәriŋ/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 黑色, 黑颜料",
+     "english": "black",
+     "soundmark": "/blæk/"
+    },
+    {
+     "chinese": "n. 外套",
+     "english": "coat",
+     "soundmark": "/kәut/"
+    },
+    {
+     "chinese": "n. 今天, 当今, 现在",
+     "english": "today.",
+     "soundmark": "/tә'dei/"
+    },
+    {
+     "chinese": "他穿着一件黑色外套。",
+     "english": "He is wearing a black coat today.",
+     "soundmark": "/hi:/ /iz/ /'wєәriŋ/ /ei/ /blæk/ /kәut/ /tә'dei/"
+    },
+    {
+     "chinese": "a. 那, 那个",
+     "english": "That",
+     "soundmark": "/ðæt/"
+    },
+    {
+     "chinese": "n. 河, 江",
+     "english": "river",
+     "soundmark": "/'rivә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "a. 长的, 长久的, 冗长的, 做多头的",
+     "english": "long",
+     "soundmark": "/lɒŋ/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "a. 宽的, 广阔的, 普遍的, 宽阔的, 广泛的, 一般的",
+     "english": "wide.",
+     "soundmark": "/waid/"
+    },
+    {
+     "chinese": "那条河很长很宽。",
+     "english": "That river is very long and wide.",
+     "soundmark": "/ðæt/ /'rivә/ /iz/ /'veri/ /lɒŋ/ /ænd/ /waid/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "a. 两者的",
+     "english": "both",
+     "soundmark": "/bәuθ/"
+    },
+    {
+     "chinese": "a. 相似的, 同样的",
+     "english": "like",
+     "soundmark": "/laik/"
+    },
+    {
+     "chinese": "n. 游戏, 玩耍, 竞技, 比赛, 扮演, 演奏, 赌博",
+     "english": "playing",
+     "soundmark": ""
+    },
+    {
+     "chinese": "n. 篮球",
+     "english": "basketball",
+     "soundmark": "/'bɑ:skitbɒ:l/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "after",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class.",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "我们俩都喜欢打篮球。",
+     "english": "We both like playing basketball after class.",
+     "soundmark": "/wi:/ /bәuθ/ /laik/ /'bɑ:skitbɒ:l/ /'ɑ:ftә/ /klɑ:s/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 姐妹, 姐, 妹, 护士, 修女",
+     "english": "sister",
+     "soundmark": "/'sistә/"
+    },
+    {
+     "chinese": "have的第三人称单数现在式",
+     "english": "has",
+     "soundmark": "/hæz/"
+    },
+    {
+     "chinese": "a. 唯一的, 仅有的, 最佳的",
+     "english": "only",
+     "soundmark": "/'әunli/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 一点点, 少许, 一会儿, 短时间",
+     "english": "little",
+     "soundmark": "/'litl/"
+    },
+    {
+     "chinese": "n. 金钱, 一笔款, 财富, 货币, 金额",
+     "english": "money",
+     "soundmark": "/'mʌni/"
+    },
+    {
+     "chinese": "adv. 现在, 刚才, 目前",
+     "english": "now.",
+     "soundmark": "/nau/"
+    },
+    {
+     "chinese": "我妹妹只有一点点钱了。",
+     "english": "My sister has only a little money now.",
+     "soundmark": "/mai/ /'sistә/ /hæz/ /'әunli/ /ei/ /'litl/ /'mʌni/ /nau/"
+    },
+    {
+     "chinese": "adv. 在那里",
+     "english": "There",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "a. 大的, 重要的",
+     "english": "big",
+     "soundmark": "/big/"
+    },
+    {
+     "chinese": "n. 花园, 果园, 菜园",
+     "english": "garden",
+     "soundmark": "/'gɑ:dn/"
+    },
+    {
+     "chinese": "adv. 在后地",
+     "english": "behind",
+     "soundmark": "/bi'haind/"
+    },
+    {
+     "chinese": "pron. 他们的",
+     "english": "their",
+     "soundmark": "/ðєә/"
+    },
+    {
+     "chinese": "n. 房子, 住宅, 机构, 议院, 家族, 家庭",
+     "english": "house.",
+     "soundmark": "/haus/"
+    },
+    {
+     "chinese": "他们的房子后面有一个大花园。",
+     "english": "There is a big garden behind their house.",
+     "soundmark": "/ðєә/ /iz/ /ei/ /big/ /'gɑ:dn/ /bi'haind/ /ðєә/ /haus/"
+    },
+    {
+     "chinese": "adv. 是",
+     "english": "Yes,",
+     "soundmark": "/jes/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "n. 赛跑, 流出, 运转",
+     "english": "running",
+     "soundmark": "/'rʌniŋ/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 早晨, 早上, 初期",
+     "english": "morning.",
+     "soundmark": "/'mɒ:niŋ/"
+    },
+    {
+     "chinese": "是的，我每天早上都去跑步。",
+     "english": "Yes, I go running every morning.",
+     "soundmark": "/jes/ /ai/ /gou/ /'rʌniŋ/ /'evri/ /'mɒ:niŋ/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 年, 年度, 年龄",
+     "english": "year",
+     "soundmark": "/jiә/"
+    },
+    {
+     "chinese": "prep. 自...以后, 自...以来",
+     "english": "since",
+     "soundmark": "/sins/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "a. 最后的, 末尾的, 最近的",
+     "english": "last",
+     "soundmark": "/lɑ:st/"
+    },
+    {
+     "chinese": "meet的过去式和过去分词",
+     "english": "met.",
+     "soundmark": "/met/"
+    },
+    {
+     "chinese": "自从我们上次见面已经过去一年了。",
+     "english": "It is a year since we last met.",
+     "soundmark": "/it/ /iz/ /ei/ /jiә/ /sins/ /wi:/ /lɑ:st/ /met/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "v. 提供, 供给, 供应( provide的第三人称单数 ); 规定; 提供[(+for)]; 装备",
+     "english": "provides",
+     "soundmark": "/prəˈvaidz/"
+    },
+    {
+     "chinese": "a. 自由的, 享受政治权力的, 允许的, 免费的, 丰富的",
+     "english": "free",
+     "soundmark": "/fri:/"
+    },
+    {
+     "chinese": "n. 午餐",
+     "english": "lunch",
+     "soundmark": "/lʌntʃ/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "n. （尤指大专院校的）学生（student的复数）",
+     "english": "students.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "学校为学生提供免费的午餐。",
+     "english": "The school provides free lunch for students.",
+     "soundmark": "/ðә/ /sku:l/ /prəˈvaidz/ /fri:/ /lʌntʃ/ /fɒ:/"
+    }
+   ]
+  },
+  {
+   "title": "第14课",
+   "statements": [
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门",
+     "english": "service",
+     "soundmark": "/'sә:vis/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "pron. 这, 本",
+     "english": "this",
+     "soundmark": "/θis/"
+    },
+    {
+     "chinese": "n. 旅馆, 客栈",
+     "english": "hotel",
+     "soundmark": "/hәu'tel/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 真正的, 恰好的, 十足的, 特有的",
+     "english": "very",
+     "soundmark": "/'veri/"
+    },
+    {
+     "chinese": "n. 善行, 好处, 利益",
+     "english": "good.",
+     "soundmark": "/gud/"
+    },
+    {
+     "chinese": "旅馆的服务非常好。",
+     "english": "The service in this hotel is very good.",
+     "soundmark": "/ðә/ /'sә:vis/ /in/ /θis/ /hәu'tel/ /iz/ /'veri/ /gud/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "pl. 孩子, 孩子们",
+     "english": "children",
+     "soundmark": "/'tʃildrәn/"
+    },
+    {
+     "chinese": "be的现在时复数或第二人称单数",
+     "english": "are",
+     "soundmark": "/ɑ:/"
+    },
+    {
+     "chinese": "n. 赛跑, 流出, 运转",
+     "english": "running",
+     "soundmark": "/'rʌniŋ/"
+    },
+    {
+     "chinese": "prep. 包围, 在...周围, 四处",
+     "english": "around",
+     "soundmark": "/ә'raund/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 运动场, 操场, 度假胜地, 活动场所",
+     "english": "playground.",
+     "soundmark": "/'pleigraund/"
+    },
+    {
+     "chinese": "孩子们正在操场上四处跑。",
+     "english": "The children are running around the playground.",
+     "soundmark": "/ðә/ /'tʃildrәn/ /ɑ:/ /'rʌniŋ/ /ә'raund/ /ðә/ /'pleigraund/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "a. 最好的",
+     "english": "best",
+     "soundmark": "/best/"
+    },
+    {
+     "chinese": "n. 朋友, 支持者, 赞助者",
+     "english": "friend",
+     "soundmark": "/frend/"
+    },
+    {
+     "chinese": "life的复数",
+     "english": "lives",
+     "soundmark": "/laivz/"
+    },
+    {
+     "chinese": "n. 下一个",
+     "english": "next",
+     "soundmark": "/'nekst/"
+    },
+    {
+     "chinese": "n. 门",
+     "english": "door",
+     "soundmark": "/dɒ:/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me.",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "我最好的朋友住在我隔壁。",
+     "english": "My best friend lives next door to me.",
+     "soundmark": "/mai/ /best/ /frend/ /laivz/ /'nekst/ /dɒ:/ /tu:/ /mi:/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 重要的, 有地位的, 大量的, 显要的, 自负的",
+     "english": "important",
+     "soundmark": "/im'pɒ:tәnt/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "us",
+     "soundmark": "/ʌs/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 饮料, 酒",
+     "english": "drink",
+     "soundmark": "/driŋk/"
+    },
+    {
+     "chinese": "n. 水, 雨水, 海水, 水位, 水面, 流水",
+     "english": "water.",
+     "soundmark": "/'wɒ:tә/"
+    },
+    {
+     "chinese": "多喝水对我们很重要。",
+     "english": "It is important for us to drink water.",
+     "soundmark": "/it/ /iz/ /im'pɒ:tәnt/ /fɒ:/ /ʌs/ /tu:/ /driŋk/ /'wɒ:tә/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "My",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 父亲, 祖先, 长辈, 神父, 创始者",
+     "english": "father",
+     "soundmark": "/'fɑ:ðә/"
+    },
+    {
+     "chinese": "n. 驱动器；驱动力；驱动程序（drive的复数形式）",
+     "english": "drives",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程",
+     "english": "work",
+     "soundmark": "/wә:k/"
+    },
+    {
+     "chinese": "a. 每一, 所有的",
+     "english": "every",
+     "soundmark": "/'evri/"
+    },
+    {
+     "chinese": "n. 天, 日子, 白天, 工作日",
+     "english": "day.",
+     "soundmark": "/dei/"
+    },
+    {
+     "chinese": "我爸爸每天开车去上班。",
+     "english": "My father drives to work every day.",
+     "soundmark": "/mai/ /'fɑ:ðә/ /tu:/ /wә:k/ /'evri/ /dei/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "vi. 坐, 就座, 坐落",
+     "english": "sit",
+     "soundmark": "/sit/"
+    },
+    {
+     "chinese": "a. 向下的",
+     "english": "down",
+     "soundmark": "/daun/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "n. 等待, 等候",
+     "english": "wait",
+     "soundmark": "/weit/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "me.",
+     "soundmark": "/mi:/"
+    },
+    {
+     "chinese": "请坐，等我一会儿。",
+     "english": "Please sit down and wait for me.",
+     "soundmark": "/pli:z/ /sit/ /daun/ /ænd/ /weit/ /fɒ:/ /mi:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 猫, 恶妇",
+     "english": "cat",
+     "soundmark": "/kæt/"
+    },
+    {
+     "chinese": "run的过去式",
+     "english": "ran",
+     "soundmark": "/ræn/"
+    },
+    {
+     "chinese": "adv. 离去",
+     "english": "away",
+     "soundmark": "/ә'wei/"
+    },
+    {
+     "chinese": "conj. 和, 与",
+     "english": "and",
+     "soundmark": "/ænd/"
+    },
+    {
+     "chinese": "hide的过去式和过去分词",
+     "english": "hid",
+     "soundmark": "/hid/"
+    },
+    {
+     "chinese": "adv. 在后地",
+     "english": "behind",
+     "soundmark": "/bi'haind/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 树, 木料, 树状物",
+     "english": "tree.",
+     "soundmark": "/tri:/"
+    },
+    {
+     "chinese": "那只猫跑走藏在了树后面。",
+     "english": "The cat ran away and hid behind a tree.",
+     "soundmark": "/ðә/ /kæt/ /ræn/ /ә'wei/ /ænd/ /hid/ /bi'haind/ /ei/ /tri:/"
+    },
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+     "english": "will",
+     "soundmark": "/wil/"
+    },
+    {
+     "chinese": "adv. 不, 非, 未",
+     "english": "not",
+     "soundmark": "/nɒt/"
+    },
+    {
+     "chinese": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠",
+     "english": "sleep",
+     "soundmark": "/sli:p/"
+    },
+    {
+     "chinese": "prep. 直到, 在...以前",
+     "english": "until",
+     "soundmark": "/әn'til/"
+    },
+    {
+     "chinese": "pron. 我的",
+     "english": "my",
+     "soundmark": "/mai/"
+    },
+    {
+     "chinese": "n. 母亲, 修女院长",
+     "english": "mother",
+     "soundmark": "/'mʌðә/"
+    },
+    {
+     "chinese": "v. 来自；从…来（come的三单形式）",
+     "english": "comes",
+     "soundmark": "/'kɔmis/"
+    },
+    {
+     "chinese": "a. 后面的",
+     "english": "back.",
+     "soundmark": "/bæk/"
+    },
+    {
+     "chinese": "我要等到妈妈回来才睡觉。",
+     "english": "I will not sleep until my mother comes back.",
+     "soundmark": "/ai/ /wil/ /nɒt/ /sli:p/ /әn'til/ /mai/ /'mʌðә/ /'kɔmis/ /bæk/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "We",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "v. 等候( wait的过去式和过去分词 ); 等待; （尤指长期地）希望; 盼望",
+     "english": "waited",
+     "soundmark": "/weitid/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "num. 二, 二个",
+     "english": "two",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 小时（hour的复数形式）",
+     "english": "hours",
+     "soundmark": ""
+    },
+    {
+     "chinese": "prep. 在...之前",
+     "english": "before",
+     "soundmark": "/bi'fɒ:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序",
+     "english": "train",
+     "soundmark": "/trein/"
+    },
+    {
+     "chinese": "come的过去式",
+     "english": "came.",
+     "soundmark": "/keim/"
+    },
+    {
+     "chinese": "我们等了两个小时才上火车。",
+     "english": "We waited for two hours before the train came.",
+     "soundmark": "/wi:/ /weitid/ /fɒ:/ /tu:/ /bi'fɒ:/ /ðә/ /trein/ /keim/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 男孩子们；小伙子们（boy的复数）",
+     "english": "boys",
+     "soundmark": ""
+    },
+    {
+     "chinese": "be的现在时复数或第二人称单数",
+     "english": "are",
+     "soundmark": "/ɑ:/"
+    },
+    {
+     "chinese": "n. 游戏, 玩耍, 竞技, 比赛, 扮演, 演奏, 赌博",
+     "english": "playing",
+     "soundmark": ""
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味",
+     "english": "game",
+     "soundmark": "/geim/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 公园, 停车处",
+     "english": "park.",
+     "soundmark": "/pɑ:k/"
+    },
+    {
+     "chinese": "男孩们正在公园里玩游戏。",
+     "english": "The boys are playing a game in the park.",
+     "soundmark": "/ðә/ /ɑ:/ /ei/ /geim/ /in/ /ðә/ /pɑ:k/"
+    }
+   ]
+  },
+  {
+   "title": "第15课",
+   "statements": [
+    {
+     "chinese": "pron. 我",
+     "english": "I",
+     "soundmark": "/ai/"
+    },
+    {
+     "chinese": "adv. 时常, 常常",
+     "english": "often",
+     "soundmark": "/'ɒ:fn/"
+    },
+    {
+     "chinese": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本",
+     "english": "play",
+     "soundmark": "/plei/"
+    },
+    {
+     "chinese": "n. 篮球",
+     "english": "basketball",
+     "soundmark": "/'bɑ:skitbɒ:l/"
+    },
+    {
+     "chinese": "prep. 在...之后, 由于",
+     "english": "after",
+     "soundmark": "/'ɑ:ftә/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "我经常放学后打篮球。",
+     "english": "I often play basketball after school.",
+     "soundmark": "/ai/ /'ɒ:fn/ /plei/ /'bɑ:skitbɒ:l/ /'ɑ:ftә/ /sku:l/"
+    },
+    {
+     "chinese": "pron. 他",
+     "english": "He",
+     "soundmark": "/hi:/"
+    },
+    {
+     "chinese": "=has not",
+     "english": "hasn't",
+     "soundmark": "/ˈhæznt/"
+    },
+    {
+     "chinese": "a. 完成的, 完结的, 精巧的, 完美的",
+     "english": "finished",
+     "soundmark": "/'finiʃt/"
+    },
+    {
+     "chinese": "pron. 他的",
+     "english": "his",
+     "soundmark": "/hiz/"
+    },
+    {
+     "chinese": "n. 家庭作业, 家里做的工作",
+     "english": "homework",
+     "soundmark": "/'hәumwә:k/"
+    },
+    {
+     "chinese": "adv. 还, 尚, 仍然, 已经, 然而",
+     "english": "yet.",
+     "soundmark": "/jet/"
+    },
+    {
+     "chinese": "他还没有完成他的作业。",
+     "english": "He hasn't finished his homework yet.",
+     "soundmark": "/hi:/ /ˈhæznt/ /'finiʃt/ /hiz/ /'hәumwә:k/ /jet/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "n. 站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席",
+     "english": "stand",
+     "soundmark": "/stænd/"
+    },
+    {
+     "chinese": "prep. 在...期间, 在...之内, 处于...之中, 从事于, 按照, 穿着",
+     "english": "in",
+     "soundmark": "/in/"
+    },
+    {
+     "chinese": "第一个字母 A; 一个; 第一的\\r",
+     "english": "a",
+     "soundmark": "/ei/"
+    },
+    {
+     "chinese": "n. 列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系",
+     "english": "line",
+     "soundmark": "/lain/"
+    },
+    {
+     "chinese": "prep. 在...之前",
+     "english": "before",
+     "soundmark": "/bi'fɒ:/"
+    },
+    {
+     "chinese": "n. 班级, 阶级, 种类, 课",
+     "english": "class",
+     "soundmark": "/klɑ:s/"
+    },
+    {
+     "chinese": "n. 开创；开始（start的复数）",
+     "english": "starts.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "上课前请站成一排。",
+     "english": "Please stand in a line before class starts.",
+     "soundmark": "/pli:z/ /stænd/ /in/ /ei/ /lain/ /bi'fɒ:/ /klɑ:s/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "The",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 电影",
+     "english": "movie",
+     "soundmark": "/'mu:vi/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "was",
+     "soundmark": "/wɒz/"
+    },
+    {
+     "chinese": "a. 烦人的, 无聊的, 无趣的",
+     "english": "boring",
+     "soundmark": "/'bɒ:riŋ/"
+    },
+    {
+     "chinese": "prep. 从, 来自, 根据",
+     "english": "from",
+     "soundmark": "/frɒm/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 开始",
+     "english": "beginning",
+     "soundmark": "/bi'giniŋ/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余",
+     "english": "end.",
+     "soundmark": "/end/"
+    },
+    {
+     "chinese": "这部电影从头到尾都很无聊。",
+     "english": "The movie was boring from the beginning to the end.",
+     "soundmark": "/ðә/ /'mu:vi/ /wɒz/ /'bɒ:riŋ/ /frɒm/ /ðә/ /bi'giniŋ/ /tu:/ /ðә/ /end/"
+    },
+    {
+     "chinese": "pron. 她",
+     "english": "She",
+     "soundmark": "/ʃi:/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "a. 最好的",
+     "english": "best",
+     "soundmark": "/best/"
+    },
+    {
+     "chinese": "n. 学生, 研究者, 学者",
+     "english": "student",
+     "soundmark": "/'stju:dnt/"
+    },
+    {
+     "chinese": "prep. 在...之中",
+     "english": "among",
+     "soundmark": "/ә'mʌŋ/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "us.",
+     "soundmark": "/ʌs/"
+    },
+    {
+     "chinese": "她是我们中最好的学生。",
+     "english": "She is the best student among us.",
+     "soundmark": "/ʃi:/ /iz/ /ðә/ /best/ /'stju:dnt/ /ә'mʌŋ/ /ʌs/"
+    },
+    {
+     "chinese": "vt. 有, 怀有, 拿, 进行",
+     "english": "Have",
+     "soundmark": "/hæv/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "adv. 曾经, 究竟, 永远",
+     "english": "ever",
+     "soundmark": "/'evә/"
+    },
+    {
+     "chinese": "be的过去分词",
+     "english": "been",
+     "soundmark": "/bi:n/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "[经] 北京",
+     "english": "Beijing?",
+     "soundmark": "/beidʒiŋ/"
+    },
+    {
+     "chinese": "你去过北京吗？",
+     "english": "Have you ever been to Beijing?",
+     "soundmark": "/hæv/ /ju:/ /'evә/ /bi:n/ /tu:/ /beidʒiŋ/"
+    },
+    {
+     "chinese": "adv. 请",
+     "english": "Please",
+     "soundmark": "/pli:z/"
+    },
+    {
+     "chinese": "(= do not)不要",
+     "english": "don't",
+     "soundmark": "/dәunt/"
+    },
+    {
+     "chinese": "n. 站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席",
+     "english": "stand",
+     "soundmark": "/stænd/"
+    },
+    {
+     "chinese": "a. 近的, 近亲的, 近似的",
+     "english": "near",
+     "soundmark": "/niә/"
+    },
+    {
+     "chinese": "art. 那",
+     "english": "the",
+     "soundmark": "/ðә/"
+    },
+    {
+     "chinese": "n. 门",
+     "english": "door",
+     "soundmark": "/dɒ:/"
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "it",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "n. 打开；公开赛事；旷野（open的复数形式）",
+     "english": "opens.",
+     "soundmark": ""
+    },
+    {
+     "chinese": "门打开时请不要站在门边。",
+     "english": "Please don't stand near the door when it opens.",
+     "soundmark": "/pli:z/ /dәunt/ /stænd/ /niә/ /ðә/ /dɒ:/ /hwen/ /it/"
+    },
+    {
+     "chinese": "n. 吃, 食物",
+     "english": "Eating",
+     "soundmark": "/'i:tiŋ/"
+    },
+    {
+     "chinese": "adv. 也, 非常, 太",
+     "english": "too",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 大量, 许多, 重要的事",
+     "english": "much",
+     "soundmark": "/mʌtʃ/"
+    },
+    {
+     "chinese": "n. 糖, 糖块, 甜言蜜语",
+     "english": "sugar",
+     "soundmark": "/'ʃugә/"
+    },
+    {
+     "chinese": "be的现在式第三人称",
+     "english": "is",
+     "soundmark": "/iz/"
+    },
+    {
+     "chinese": "a. 坏的",
+     "english": "bad",
+     "soundmark": "/bæd/"
+    },
+    {
+     "chinese": "prep. 为, 因为, 至于",
+     "english": "for",
+     "soundmark": "/fɒ:/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "pl. 牙齿",
+     "english": "teeth.",
+     "soundmark": "/ti:θ/"
+    },
+    {
+     "chinese": "吃太多糖对你的牙齿不好。",
+     "english": "Eating too much sugar is bad for your teeth.",
+     "soundmark": "/'i:tiŋ/ /tu:/ /mʌtʃ/ /'ʃugә/ /iz/ /bæd/ /fɒ:/ /juә/ /ti:θ/"
+    },
+    {
+     "chinese": "(= do not)不要",
+     "english": "Don't",
+     "soundmark": "/dәunt/"
+    },
+    {
+     "chinese": "vt. 遗失, 损失, 丢失, 使失去, 错过, 浪费, 迷失, 使迷路, 输去, 使沉溺于",
+     "english": "lose",
+     "soundmark": "/lu:z/"
+    },
+    {
+     "chinese": "pron. 你的, 你们的",
+     "english": "your",
+     "soundmark": "/juә/"
+    },
+    {
+     "chinese": "n. 关键帧；（钢琴等的）键；密钥（key的复数）",
+     "english": "keys",
+     "soundmark": ""
+    },
+    {
+     "chinese": "conj. 当...的时候",
+     "english": "when",
+     "soundmark": "/hwen/"
+    },
+    {
+     "chinese": "pron. 你, 你们",
+     "english": "you",
+     "soundmark": "/ju:/"
+    },
+    {
+     "chinese": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下",
+     "english": "go",
+     "soundmark": "/gou/"
+    },
+    {
+     "chinese": "a. 外面的, 熄灭的, 结束的",
+     "english": "out.",
+     "soundmark": "/aut/"
+    },
+    {
+     "chinese": "出门时不要弄丢你的钥匙。",
+     "english": "Don't lose your keys when you go out.",
+     "soundmark": "/dәunt/ /lu:z/ /juә/ /hwen/ /ju:/ /gou/ /aut/"
+    },
+    {
+     "chinese": "pron. 它",
+     "english": "It",
+     "soundmark": "/it/"
+    },
+    {
+     "chinese": "be的过去式",
+     "english": "was",
+     "soundmark": "/wɒz/"
+    },
+    {
+     "chinese": "[化] 淋降现象",
+     "english": "raining;",
+     "soundmark": ""
+    },
+    {
+     "chinese": "adv. 然而, 无论如何, 究竟怎样",
+     "english": "however,",
+     "soundmark": "/hau'evә/"
+    },
+    {
+     "chinese": "pron. 我们",
+     "english": "we",
+     "soundmark": "/wi:/"
+    },
+    {
+     "chinese": "n. 蒸馏室, 寂静, 剧照",
+     "english": "still",
+     "soundmark": "/stil/"
+    },
+    {
+     "chinese": "go的过去式",
+     "english": "went",
+     "soundmark": "/went/"
+    },
+    {
+     "chinese": "prep. 到, 向, 趋于",
+     "english": "to",
+     "soundmark": "/tu:/"
+    },
+    {
+     "chinese": "n. 学校, 鱼群, 门派, 学派",
+     "english": "school.",
+     "soundmark": "/sku:l/"
+    },
+    {
+     "chinese": "天下着雨；然而，我们还是去了学校。",
+     "english": "It was raining; however, we still went to school.",
+     "soundmark": "/it/ /wɒz/ /hau'evә/ /wi:/ /stil/ /went/ /tu:/ /sku:l/"
+    }
+   ]
+  }
+ ]
+}
