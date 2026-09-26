@@ -4,12 +4,24 @@
   "description": "Elearn desktop (standalone Electron build)",
   "main": "dist/main.js",
   "private": true,
+  "packageManager": "pnpm@9.3.0+sha256.e1f9e8d1a16607a46dd3c158b5f7a7dc7945501d1c6222d454d63d033d1d918f",
+  "engines": {
+    "node": ">=20.12.2"
+  },
   "scripts": {
     "build:main": "esbuild src/main.ts src/preload.ts --bundle --platform=node --format=cjs --external:electron --outdir=dist --log-level=warning",
     "typecheck": "tsc --noEmit",
     "start": "npm run build:main && electron .",
     "dist": "npm run build:main && electron-builder --win",
-    "dist:dir": "npm run build:main && electron-builder --win --dir"
+    "dist:dir": "npm run build:main && electron-builder --win --dir",
+    "schema:build": "pnpm -F @earthworm/schema build",
+    "api:build": "pnpm schema:build && pnpm -F api build",
+    "api:bundle": "esbuild apps/api/dist/src/main.js --bundle --platform=node --format=cjs --external:better-sqlite3 --external:electron --external:@nestjs/microservices --external:@nestjs/websockets --external:@fastify/static --outfile=resources/api.cjs --log-level=warning",
+    "client:generate": "pnpm -F client generate",
+    "build:resources": "pnpm schema:build && pnpm api:build && pnpm api:bundle && pnpm client:generate && node scripts/sync-resources.mjs",
+    "db:init": "pnpm -F @earthworm/db run init",
+    "db:upload": "pnpm -F @earthworm/xingrong-courses upload",
+    "dev:api": "pnpm schema:build && SQLITE_DB_PATH=./data/elearn.db MIGRATIONS_DIR=packages/db/drizzle COURSES_DATA_DIR=packages/xingrong-courses/data/courses pnpm -F api start:dev"
   },
   "devDependencies": {
     "better-sqlite3": "^11.10.0",

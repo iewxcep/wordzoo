@@ -1,0 +1,140 @@
+import { Inject, Injectable, NotFoundException } from "@nestjs/common";
+import { and, asc, eq, inArray, sql } from "drizzle-orm";
+
+import { course, coursePack, statement } from "@earthworm/schema";
+import { CourseHistoryService } from "../course-history/course-history.service";
+import { CourseService } from "../course/course.service";
+import { DB, DbType } from "../global/providers/db.provider";
+
+@Injectable()
+export class CoursePackService {
+  constructor(
+    @Inject(DB) private db: DbType,
+    private readonly courseService: CourseService,
+    private readonly courseHistoryService: CourseHistoryService,
+  ) {}
+
+  async findAll(userId?: string) {
+    const result = await this.findAllPublicCoursePacks();
+
+    if (userId) {
+      const userIdOwnedCoursePacks = await this.findAllForUser(userId);
+      result.push(...userIdOwnedCoursePacks);
+    }
+
+    return result;
+  }
+
+  async findAllForUser(userId: string) {
+    const userIdOwnedCoursePacks = await this.db.query.coursePack.findMany({
+      orderBy: asc(coursePack.order),
+      where: and(eq(coursePack.creatorId, userId), eq(coursePack.shareLevel, "private")),
+    });
+
+    return userIdOwnedCoursePacks;
+  }
+
+  async findAllPublicCoursePacks() {
+    return await this.db.query.coursePack.findMany({
+      orderBy: asc(coursePack.order),
+      where: eq(coursePack.shareLevel, "public"),
+    });
+  }
+
+  async findOne(coursePackId: string) {
+    const result = await this.db.query.coursePack.findFirst({
+      where: eq(coursePack.id, coursePackId),
+    });
+
+    if (!result) {
+      throw new NotFoundException(`CoursePack with ID ${coursePackId} not found`);
+    }
+
+    return result;
+  }
+
+  async findOneWithCourses(userId: string, coursePackId: string) {
+    const coursePackWithCourses = await this.findCoursePackWithCourses(coursePackId, userId);
+
+    if (userId) {
+      coursePackWithCourses.courses = await this.addCompletionCountsToCourses(
+        userId,
+        coursePackWithCourses.courses,
+        coursePackId,
+      );
+    }
+
+    return coursePackWithCourses;
+  }
+
+  private async findCoursePackWithCourses(coursePackId: string, userId: string) {
+    const coursePackWithCourses = await this.db.query.coursePack.findFirst({
+      where: and(eq(coursePack.id, coursePackId)),
+      with: {
+        courses: {
+          orderBy: asc(course.order),
+        },
+      },
+    });
+
+    if (!coursePackWithCourses) {
+      throw new NotFoundException(`CoursePack with ID ${coursePackId} not found`);
+    }
+
+    if (coursePackWithCourses.shareLevel === "private") {
+      if (coursePackWithCourses.creatorId === userId) {
+        return coursePackWithCourses;
+      } else {
+        throw new NotFoundException(`CoursePack with ID ${coursePackId} not found`);
+      }
+    } else {
+      return coursePackWithCourses;
+    }
+  }
+
+  private async addCompletionCountsToCourses(
+    userId: string,
+    courses: (typeof course.$inferSelect)[],
+    coursePackId: string,
+  ) {
+    const statementCounts = await this.db
+      .select({ courseId: statement.courseId, total: sql<number>`count(*)` })
+      .from(statement)
+      .where(inArray(statement.courseId, courses.map((c) => c.id)))
+      .groupBy(statement.courseId);
+    const statementCountMap = new Map(
+      statementCounts.map((r) => [r.courseId, Number(r.total)]),
+    );
+
+    return await Promise.all(
+      courses.map(async (course) => {
+        const completionCount = await this.courseHistoryService.findCompletionCount(
+          userId,
+          coursePackId,
+          course.id,
+        );
+        return {
+          ...course,
+          completionCount,
+          statementCount: statementCountMap.get(course.id) ?? 0,
+        };
+      }),
+    );
+  }
+
+  async findCourse(userId: string, coursePackId: string, courseId: string) {
+    if (userId) {
+      return await this.courseService.findWithUserProgress(coursePackId, courseId, userId);
+    } else {
+      return await this.courseService.find(coursePackId, courseId);
+    }
+  }
+
+  async findNextCourse(coursePackId: string, courseId: string) {
+    return await this.courseService.findNext(coursePackId, courseId);
+  }
+
+  async completeCourse(userId: string, coursePackId: string, courseId: string) {
+    return await this.courseService.completeCourse(userId, coursePackId, courseId);
+  }
+}

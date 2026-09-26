@@ -17,8 +17,8 @@ set -euo pipefail
 
 TARGET_DIR="${1:-/mnt/d/app/ELearn-1.0.0-win}"
 MODE="${2:-all}"
-REPO=/app/earthworm
-ELEARN=/home/xht/app/elearn
+# 本仓库（elearn workspace）即唯一构建源
+REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [[ "${1:-}" == "renderer" || "${1:-}" == "api" ]]; then
   TARGET_DIR=/mnt/d/app/ELearn-1.0.0-win
@@ -33,29 +33,25 @@ fi
 
 deploy_renderer() {
   echo "==> 构建前端 (nuxt generate, API_BASE='')"
-  (cd "$REPO" && pnpm -F client generate > /dev/null)
+  (cd "$REPO" && corepack pnpm run client:generate > /dev/null)
   echo "==> 发布 renderer 到 $RESOURCES/renderer"
   # 覆盖式发布：Windows 下应用运行时目录可能被占用，避免 rename 失败；
   # 旧的 content-hash chunk 留在原地无害（新构建文件名不同）
-  cp -r "$REPO/apps/client/.output/public/." "$RESOURCES/renderer/"
+  rm -rf "$RESOURCES/renderer"
+  cp -r "$REPO/apps/client/.output/public" "$RESOURCES/renderer"
   echo "    完成 —— 在应用里刷新页面(Ctrl+R)即可看到新前端"
 }
 
 deploy_api() {
   echo "==> 构建后端 (schema → nest build → esbuild bundle)"
-  (cd "$REPO" && pnpm schema:build > /dev/null && pnpm -F api build > /dev/null)
-  (cd "$REPO/apps/desktop" && pnpm build:api-bundle > /dev/null)
+  (cd "$REPO" && corepack pnpm run schema:build > /dev/null && corepack pnpm run api:build > /dev/null)
+  (cd "$REPO" && corepack pnpm run api:bundle > /dev/null)
   echo "==> 发布 api.cjs 到 $RESOURCES/api.cjs"
   if [[ -f "$RESOURCES/api.cjs.running" ]]; then
     echo "警告: 检测到上次 api 部署残留" >&2
   fi
-  cp "$REPO/apps/desktop/dist/api.cjs" "$RESOURCES/api.cjs.new"
+  cp "$REPO/resources/api.cjs" "$RESOURCES/api.cjs.new"
   mv -f "$RESOURCES/api.cjs.new" "$RESOURCES/api.cjs"
-  # 同步初始化题库（种子化用）
-  if [[ -d "$ELEARN/resources/seed-packs" ]]; then
-    mkdir -p "$RESOURCES/seed-packs"
-    cp "$ELEARN/resources/seed-packs/"*.json "$RESOURCES/seed-packs/"
-  fi
   echo "    完成 —— 重启 ELearn.exe 生效"
 }
 

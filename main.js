@@ -188,6 +188,7 @@ ${err.stack}` : String(err);
 }
 import_electron.app.whenReady().then(async () => {
   initLogging();
+  import_electron.Menu.setApplicationMenu(null);
   import_electron.ipcMain.handle("app:version", () => import_electron.app.getVersion());
   import_electron.ipcMain.handle("app:open-external", (_event, rawUrl) => {
     if (typeof rawUrl !== "string") {

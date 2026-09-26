@@ -1,13 +1,31 @@
-# 依赖
-node_modules/
+# build artifacts
 dist/
-
-# 构建产物（体积大，可随时重新构建）
 release/
+node_modules/
+apps/client/.nuxt/
+apps/client/.output/
+apps/client/dist/
+packages/schema/dist/
+packages/game-data-sdk/dist/
+
+# generated resource payloads (rebuilt by `pnpm run build:resources`)
 resources/api.cjs
+resources/migrations/
+resources/courses-data/
 resources/renderer/
 resources/node_modules/
 
-# 系统文件
+# native & junk
+*.log
+data/
+apps/api/data/
+packages/db/data/
+
+# env
+.env
+!apps/client/.env.prod
+!apps/api/.env.example
+!apps/api/.env.test.example
+
+# os
 .DS_Store
-Thumbs.db

@@ -31,7 +31,6 @@ interface DesktopResources {
   apiBundle: string;
   migrationsDir: string;
   coursesDataDir: string;
-  seedPacksDir: string;
   rendererDir: string;
 }
 
@@ -43,7 +42,6 @@ function getResources(): DesktopResources {
       apiBundle: path.join(res, "api.cjs"),
       migrationsDir: path.join(res, "migrations"),
       coursesDataDir: path.join(res, "courses-data"),
-      seedPacksDir: path.join(res, "seed-packs"),
       rendererDir: path.join(res, "renderer"),
     };
   }
@@ -54,7 +52,6 @@ function getResources(): DesktopResources {
     apiBundle: path.join(resources, "api.cjs"),
     migrationsDir: path.join(resources, "migrations"),
     coursesDataDir: path.join(resources, "courses-data"),
-    seedPacksDir: path.join(resources, "seed-packs"),
     rendererDir: path.join(resources, "renderer"),
   };
 }
@@ -88,13 +85,22 @@ async function startApiServer(): Promise<string> {
   const port = await findFreePort(Number(process.env.PORT || 3001));
 
   const resources = getResources();
-  const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "earthworm.db");
+  const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "elearn.db");
   fs.mkdirSync(path.dirname(dbPath), { recursive: true });
+
+  // 数据库名从 earthworm.db 更名为 elearn.db：老库自动迁移，保留学习进度
+  if (!fs.existsSync(dbPath)) {
+    const legacyDb = path.join(path.dirname(dbPath), "earthworm.db");
+    for (const suffix of ["", "-wal", "-shm"]) {
+      const from = legacyDb + suffix;
+      const to = dbPath + suffix;
+      if (fs.existsSync(from) && !fs.existsSync(to)) fs.renameSync(from, to);
+    }
+  }
 
   process.env.SQLITE_DB_PATH = dbPath;
   process.env.MIGRATIONS_DIR ||= resources.migrationsDir;
   process.env.COURSES_DATA_DIR ||= resources.coursesDataDir;
-  process.env.SEED_PACKS_DIR ||= resources.seedPacksDir;
   process.env.RENDERER_DIR ||= resources.rendererDir;
   process.env.PORT = String(port);
 
@@ -244,5 +250,39 @@ app.whenReady().then(async () => {
   });
 }).catch(fatal);
 
-process.on("unhandledRejection", fatal);
-process.on("uncaughtException", fatal);
+const EDGE_TTS_ERROR_PATTERN = /Edge TTS WebSocket error/i;
+
+const NETWORK_WARNING_COOLDOWN_MS = 60_000;
+let lastNetworkWarningAt = 0;
+
+/** Non-modal warning telling the user that TTS playback failed due to the network. */
+function warnTtsUnavailable(err: unknown): void {
+  const now = Date.now();
+  if (now - lastNetworkWarningAt < NETWORK_WARNING_COOLDOWN_MS) return;
+  lastNetworkWarningAt = now;
+  dialog
+    .showMessageBox({
+      type: "warning",
+      title: "朗读不可用",
+      message: "网络连接异常，朗读功能暂时不可用",
+      detail:
+        "课程进度和学习数据不受影响。请检查网络连接后重试。\n\n" +
+        (err instanceof Error && err.stack ? err.stack : String(err)),
+      buttons: ["确定"],
+      noLink: true,
+    })
+    .catch(() => {
+      // ignore
+    });
+}
+
+/** Runtime errors from the in-process API (e.g. Edge TTS network failures) must
+ * not kill the app: log them. Only Edge TTS failures get a user-facing hint. */
+function onRuntimeError(err: unknown): void {
+  log("error", "runtime error:", err instanceof Error && err.stack ? err.stack : String(err));
+  const message = err instanceof Error ? err.message : String(err);
+  if (EDGE_TTS_ERROR_PATTERN.test(message)) warnTtsUnavailable(err);
+}
+
+process.on("unhandledRejection", onRuntimeError);
+process.on("uncaughtException", onRuntimeError);
