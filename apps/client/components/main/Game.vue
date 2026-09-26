@@ -1,16 +1,16 @@
 <template>
-  <template v-if="isDictationMode()">
-    <ModeDictationMode />
-  </template>
-  <template v-else-if="isChineseToEnglishMode()">
-    <ModeChineseToEnglishMode />
-  </template>
+  <div class="flex w-full flex-1 flex-col">
+    <template v-if="isDictationMode()">
+      <ModeDictationMode />
+    </template>
+    <template v-else-if="isChineseToEnglishMode()">
+      <ModeChineseToEnglishMode />
+    </template>
 
-  <MainLearningTimer></MainLearningTimer>
-  <MainTips />
-  <MainSummary />
-  <GamePauseModal></GamePauseModal>
-  <MainGameSettingModal />
+    <MainSummary />
+    <GamePauseModal></GamePauseModal>
+    <MainGameSettingModal />
+  </div>
 </template>
 
 <script setup lang="ts">
