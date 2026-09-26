@@ -7,7 +7,7 @@
       v-model="isOpen"
       :popper="{ placement: 'top-start', offsetDistance: 12 }"
       :ui="{
-        width: 'w-72',
+        width: 'w-36',
         trigger: 'inline-flex',
       }"
     >
