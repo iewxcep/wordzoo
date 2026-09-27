@@ -1,12 +1,17 @@
 <template>
   <div class="mt-8 flex w-full flex-1 flex-col pb-20">
-    <!-- 顶部品牌 header：靠左显示 -->
-    <img
-      src="/logo.png"
-      alt="WordZoo 字游"
-      class="mb-6 w-[clamp(180px,20vw,300px)] self-start select-none"
-      draggable="false"
-    />
+    <!-- 顶部品牌 header：logo + 字游，靠左显示 -->
+    <div class="mb-6 flex items-center gap-3 self-start">
+      <img
+        src="/logo.png"
+        alt="WordZoo"
+        class="h-14 w-auto select-none"
+        draggable="false"
+      />
+      <span class="text-4xl font-extrabold leading-none tracking-wide text-[#2f7ef8] dark:text-[#5b9dff]">
+        字游
+      </span>
+    </div>
     <div class="flex w-full justify-between">
       <!-- 左侧头像区域 -->
       <div class="mr-8 hidden w-[144px] shrink-0 self-start md:block">
