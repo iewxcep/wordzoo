@@ -39,10 +39,10 @@ win:
   target:
     - nsis
     - zip
-  icon: build/icon.png
+  icon: build/icon.ico
   # Cross-building on Linux: skip exe signing/rcedit (requires wine).
-  # The exe stays unsigned with the default Electron icon; the NSIS
-  # installer icon still comes from build/icon.png.
+  # electron-builder 不改 exe 图标；build/icon.ico 由 scripts/patch-exe-icon.mjs
+  # 在打包后写进 ELearn.exe 的 RT_GROUP_ICON（见 package.json postbuild）。
   signAndEditExecutable: false
 
 nsis:
