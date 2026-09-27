@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-8 flex w-full flex-1 justify-between pb-20">
+  <div class="mt-8 flex w-full flex-1 flex-col pb-20">
     <!-- 顶部品牌 header -->
     <img
       src="/header.png"
@@ -7,8 +7,9 @@
       class="mx-auto mb-6 w-[clamp(280px,34vw,520px)] select-none"
       draggable="false"
     />
-    <!-- 左侧头像区域 -->
-    <div class="mr-8 hidden w-[144px] shrink-0 self-start md:block">
+    <div class="flex w-full justify-between">
+      <!-- 左侧头像区域 -->
+      <div class="mr-8 hidden w-[144px] shrink-0 self-start md:block">
       <label class="group relative mx-auto block h-[clamp(72px,7.5vw,128px)] w-[clamp(72px,7.5vw,128px)] cursor-pointer">
         <div
           class="h-full w-full overflow-hidden rounded-full border-2 border-gray-300 bg-gray-300 dark:border-gray-700 dark:bg-gray-700"
@@ -91,6 +92,7 @@
         :totalLearningTime="learningDailyTotalTime"
         @toggleYear="toggleYear"
       />
+    </div>
     </div>
   </div>
 </template>
