@@ -1,11 +1,11 @@
 <template>
-  <div class="mt-8 flex w-full flex-1 flex-col pb-20">
-    <!-- 顶部品牌 header：logo + 字游，靠左显示 -->
-    <div class="mb-6 flex items-center gap-3 self-start">
+  <div class="flex w-full flex-1 flex-col pb-20">
+    <!-- 顶部品牌 header：logo + 字游，靠左贴顶 -->
+    <div class="mb-6 flex items-center gap-3 self-start font-yahei">
       <img
         src="/logo.png"
         alt="WordZoo"
-        class="h-14 w-auto select-none"
+        class="h-14 w-14 select-none"
         draggable="false"
       />
       <span class="text-4xl font-extrabold leading-none tracking-wide text-[#2f7ef8] dark:text-[#5b9dff]">
