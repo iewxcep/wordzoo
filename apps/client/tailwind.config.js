@@ -41,7 +41,6 @@ export default {
       },
       fontFamily: {
         customFont: ["CustomFont", "sans-serif"], // 自定义字体
-        yahei: ["Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "sans-serif"], // 微软雅黑
       },
       borderColor: {
         "theme-dark": "#05051d",
