@@ -1,10 +1,10 @@
 <template>
   <div class="mt-8 flex w-full flex-1 flex-col pb-20">
-    <!-- 顶部品牌 header -->
+    <!-- 顶部品牌 header：靠左显示 -->
     <img
-      src="/header.png"
-      alt="WordZoo"
-      class="mx-auto mb-6 w-[clamp(280px,34vw,520px)] select-none"
+      src="/logo.png"
+      alt="WordZoo 字游"
+      class="mb-6 w-[clamp(180px,20vw,300px)] self-start select-none"
       draggable="false"
     />
     <div class="flex w-full justify-between">
