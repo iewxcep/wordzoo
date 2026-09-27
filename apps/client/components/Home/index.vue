@@ -1,5 +1,12 @@
 <template>
   <div class="mt-8 flex w-full flex-1 justify-between pb-20">
+    <!-- 顶部品牌 header -->
+    <img
+      src="/header.png"
+      alt="WordZoo"
+      class="mx-auto mb-6 w-[clamp(280px,34vw,520px)] select-none"
+      draggable="false"
+    />
     <!-- 左侧头像区域 -->
     <div class="mr-8 hidden w-[144px] shrink-0 self-start md:block">
       <label class="group relative mx-auto block h-[clamp(72px,7.5vw,128px)] w-[clamp(72px,7.5vw,128px)] cursor-pointer">
