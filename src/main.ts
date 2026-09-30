@@ -85,16 +85,36 @@ async function startApiServer(): Promise<string> {
   const port = await findFreePort(Number(process.env.PORT || 3001));
 
   const resources = getResources();
-  const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "elearn.db");
+  const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "wordzoo.db");
   fs.mkdirSync(path.dirname(dbPath), { recursive: true });
 
-  // 数据库名从 earthworm.db 更名为 elearn.db：老库自动迁移，保留学习进度
+  // 数据库历史更名链：earthworm.db → elearn.db → wordzoo.db，保留学习进度。
+  // 包名变更会同时更换 userData 目录（运行时应用名 elearn → WordZoo），打包态把
+  // 老目录（%APPDATA%/elearn，已实测存在的真实目录）里的库复制过来，保留学习
+  // 进度；用复制而非改名，万一回退旧版应用仍能打开老库。
   if (!fs.existsSync(dbPath)) {
-    const legacyDb = path.join(path.dirname(dbPath), "earthworm.db");
-    for (const suffix of ["", "-wal", "-shm"]) {
-      const from = legacyDb + suffix;
-      const to = dbPath + suffix;
-      if (fs.existsSync(from) && !fs.existsSync(to)) fs.renameSync(from, to);
+    const dbDir = path.dirname(dbPath);
+    const legacyDirs = app.isPackaged
+      ? [dbDir, path.join(path.dirname(dbDir), "elearn")]
+      : [dbDir];
+    const legacyNames = ["elearn.db", "earthworm.db"];
+    for (const dir of legacyDirs) {
+      for (const name of legacyNames) {
+        const from = path.join(dir, name);
+        if (!fs.existsSync(from)) continue;
+        for (const suffix of ["", "-wal", "-shm"]) {
+          const src = from + suffix;
+          const to = dbPath + suffix;
+          if (!fs.existsSync(src) || fs.existsSync(to)) continue;
+          if (dir === dbDir) {
+            fs.renameSync(src, to);
+          } else {
+            fs.cpSync(src, to);
+          }
+        }
+        break;
+      }
+      if (fs.existsSync(dbPath)) break;
     }
   }
 
@@ -206,7 +226,7 @@ function fatal(err: unknown): void {
   const stack = err instanceof Error ? `${err.message}\n\n${err.stack}` : String(err);
   log("error", "fatal:", stack);
   try {
-    dialog.showErrorBox("ELearn 启动失败", `${stack}\n\n日志: ${logFile ?? "?"}`);
+    dialog.showErrorBox("WordZoo 启动失败", `${stack}\n\n日志: ${logFile ?? "?"}`);
   } finally {
     app.quit();
   }

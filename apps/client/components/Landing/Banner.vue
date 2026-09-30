@@ -34,7 +34,7 @@
         class="btn relative"
         type="button"
       >
-        <strong>开启Elearn</strong>
+        <strong>开启WordZoo</strong>
         <div id="container-stars">
           <div id="stars"></div>
         </div>

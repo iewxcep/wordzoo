@@ -22,7 +22,7 @@
 const props = defineProps({
   main_title: {
     type: String,
-    default: "Elearn is now available! 🎉",
+    default: "WordZoo is now available! 🎉",
   },
   sub_title: {
     type: String,

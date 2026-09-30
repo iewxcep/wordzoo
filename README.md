@@ -1,4 +1,4 @@
-# ELearn — 桌面版（Electron + 全栈单仓）
+# WordZoo — 桌面版（Electron + 全栈单仓）
 
 本仓库完全自包含：API（Nest）、前端（Nuxt）、管理端、课程数据、数据库迁移全部在本仓，
 构建/修改不再依赖任何外部 monorepo。
@@ -11,8 +11,8 @@
 
 ## 直接测试（推荐）
 
-拷贝 `release/ELearn-1.0.0-win.zip` 到 Windows，解压后双击 `ELearn.exe` 即可（无需安装）。
-- 数据落在 `%APPDATA%/ELearn/elearn.db`（老版本 `earthworm.db` 启动时自动迁移）。
+拷贝 `release/WordZoo-1.0.0-win.zip` 到 Windows，解压后双击 `WordZoo.exe` 即可（无需安装）。
+- 数据落在 `%APPDATA%/WordZoo/wordzoo.db`。更名迁移链：老版本 `earthworm.db` / `elearn.db` 启动时自动更名；从旧版应用升级时，旧数据目录 `%APPDATA%/elearn`（运行时应用名为小写）里的库会自动复制到新目录，学习进度保留。
 
 ## 界面调整
 
@@ -21,7 +21,7 @@
 ## 目录结构
 
 ```
-elearn/
+wordzoo/
 ├── src/main.ts               # main 进程：起 API（自动挑端口）→ 健康检查 → 开窗 loadURL
 ├── src/preload.ts            # 最小 contextBridge
 ├── apps/api/                 # Nest 后端源码（→ esbuild 打包成 resources/api.cjs）
@@ -62,7 +62,7 @@ api.cjs 与旧发布件逐字节一致（md5 feb2e240…），课程数据、迁
 ## Windows 打包
 
 ```bash
-corepack pnpm run dist   # 产出 release/ELearn-Setup-1.0.0.exe（NSIS 安装包）+ zip
+corepack pnpm run dist   # 产出 release/WordZoo-Setup-1.0.0.exe（NSIS 安装包）+ zip
 ```
 
 - Windows 打包用的 better-sqlite3 原生模块来自 `native/win/node_modules/`（electron-ABI
@@ -73,21 +73,21 @@ corepack pnpm run dist   # 产出 release/ELearn-Setup-1.0.0.exe（NSIS 安装�
 ## 开发
 
 ```bash
-corepack pnpm run dev:api       # schema 构建 + 起 API（SQLite 直落 ./data/elearn.db）
+corepack pnpm run dev:api       # schema 构建 + 起 API（SQLite 直落 ./data/wordzoo.db）
 corepack pnpm -F client dev     # 前端 dev server
 corepack pnpm run build:main && corepack pnpm start   # electron 加载 resources/renderer
 corepack pnpm run typecheck
 ```
 
 改了 API / 前端 / 课程数据后运行 `corepack pnpm run build:resources` 重建 `resources/`；
-Electron 内 F5 即见新前端，api.cjs 变更需重启 ELearn。
+Electron 内 F5 即见新前端，api.cjs 变更需重启 WordZoo。
 
 ## 热部署（开发迭代用）
 
 ```bash
 ./deploy.sh renderer   # 只发前端：应用内 Ctrl+R 刷新即生效
-./deploy.sh api        # 发 API：重启 ELearn.exe 生效（发前先关掉运行中的应用）
-./deploy.sh            # 两者都发（默认目标 /mnt/d/app/ELearn-1.0.0-win）
+./deploy.sh api        # 发 API：重启 WordZoo.exe 生效（发前先关掉运行中的应用）
+./deploy.sh            # 两者都发（默认目标 /mnt/d/app/WordZoo-1.0.0-win）
 ./deploy.sh <目录> [模式]  # 自定义目标
 ```
 
@@ -103,7 +103,7 @@ Electron 内 F5 即见新前端，api.cjs 变更需重启 ELearn。
 
 ## 日志
 
-- 位置：`%APPDATA%\ELearn\logs\main.log`
+- 位置：`%APPDATA%\WordZoo\logs\main.log`
 - 内容：main 进程启动步骤、API 就绪状态、渲染进程 console（含 `[http]` 每个请求的状态与耗时、
   `[game]` 游戏页初始化步骤）、页面加载失败与崩溃信息
 - 遇到问题时把 `main.log` 发出来即可定位

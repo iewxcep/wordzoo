@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""校验/净化 Earthworm/ELearn 课程包 JSON（三层：包→课程→语句）。
+"""校验/净化 Earthworm/WordZoo 课程包 JSON（三层：包→课程→语句）。
 
 用法: python3 validate.py <课程包.json> [--fix]
 

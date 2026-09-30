@@ -48,7 +48,7 @@ export function resolveMigrationsDir() {
 export async function setupDB() {
   if (connection) return drizzle(connection, { schema: schemas });
 
-  const dbPath = process.env.SQLITE_DB_PATH || "./data/elearn.db";
+  const dbPath = process.env.SQLITE_DB_PATH || "./data/wordzoo.db";
   const resolvedPath = path.isAbsolute(dbPath) ? dbPath : path.resolve(process.cwd(), dbPath);
   fs.mkdirSync(path.dirname(resolvedPath), { recursive: true });
 

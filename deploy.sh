@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 把最新构建产物直接发布到 Windows 上已安装的 ELearn 目录（热部署）。
+# 把最新构建产物直接发布到 Windows 上已安装的 WordZoo 目录（热部署）。
 #
 # 用法（在 WSL 里执行）:
 #   ./deploy.sh                    # 前端+API 全部发布（默认目标目录）
@@ -10,18 +10,18 @@
 #
 # 生效方式:
 #   renderer  → API 静态托管每次请求都读磁盘，覆盖后浏览器刷新(F5/重启窗口)即生效
-#   api.cjs   → main 进程启动时加载一次，覆盖后必须重启 ELearn.exe
-#   注意: 发 api 前先关掉正在运行的 ELearn（Windows 下替换被占用的 exe/dll 会失败）
+#   api.cjs   → main 进程启动时加载一次，覆盖后必须重启 WordZoo.exe
+#   注意: 发 api 前先关掉正在运行的 WordZoo（Windows 下替换被占用的 exe/dll 会失败）
 
 set -euo pipefail
 
-TARGET_DIR="${1:-/mnt/d/app/ELearn-1.0.0-win}"
+TARGET_DIR="${1:-/mnt/d/app/WordZoo-1.0.0-win}"
 MODE="${2:-all}"
-# 本仓库（elearn workspace）即唯一构建源
+# 本仓库（wordzoo workspace）即唯一构建源
 REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [[ "${1:-}" == "renderer" || "${1:-}" == "api" ]]; then
-  TARGET_DIR=/mnt/d/app/ELearn-1.0.0-win
+  TARGET_DIR=/mnt/d/app/WordZoo-1.0.0-win
   MODE="$1"
 fi
 
@@ -52,7 +52,7 @@ deploy_api() {
   fi
   cp "$REPO/resources/api.cjs" "$RESOURCES/api.cjs.new"
   mv -f "$RESOURCES/api.cjs.new" "$RESOURCES/api.cjs"
-  echo "    完成 —— 重启 ELearn.exe 生效"
+  echo "    完成 —— 重启 WordZoo.exe 生效"
 }
 
 case "$MODE" in

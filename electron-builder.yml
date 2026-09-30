@@ -1,6 +1,6 @@
-appId: com.elearn.earthworm
-productName: ELearn
-copyright: Elearn desktop
+appId: com.wordzoo.app
+productName: WordZoo
+copyright: WordZoo desktop
 
 directories:
   output: release
@@ -42,10 +42,10 @@ win:
   icon: build/icon.ico
   # Cross-building on Linux: skip exe signing/rcedit (requires wine).
   # electron-builder 不改 exe 图标；build/icon.ico 由 scripts/patch-exe-icon.mjs
-  # 在打包后写进 ELearn.exe 的 RT_GROUP_ICON（见 package.json postbuild）。
+  # 在打包后写进 WordZoo.exe 的 RT_GROUP_ICON（见 package.json postbuild）。
   signAndEditExecutable: false
 
 nsis:
   oneClick: false
   allowToChangeInstallationDirectory: true
-  artifactName: ELearn-Setup-${version}.${ext}
+  artifactName: WordZoo-Setup-${version}.${ext}

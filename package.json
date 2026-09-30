@@ -1,7 +1,8 @@
 {
-  "name": "elearn",
+  "name": "wordzoo",
+  "productName": "WordZoo",
   "version": "1.0.0",
-  "description": "Elearn desktop (standalone Electron build)",
+  "description": "WordZoo desktop (standalone Electron build)",
   "main": "dist/main.js",
   "private": true,
   "packageManager": "pnpm@9.3.0+sha256.e1f9e8d1a16607a46dd3c158b5f7a7dc7945501d1c6222d454d63d033d1d918f",
@@ -21,7 +22,7 @@
     "build:resources": "pnpm schema:build && pnpm api:build && pnpm api:bundle && pnpm client:generate && node scripts/sync-resources.mjs",
     "db:init": "pnpm -F @earthworm/db run init",
     "db:upload": "pnpm -F @earthworm/xingrong-courses upload",
-    "dev:api": "pnpm schema:build && SQLITE_DB_PATH=./data/elearn.db MIGRATIONS_DIR=packages/db/drizzle COURSES_DATA_DIR=packages/xingrong-courses/data/courses pnpm -F api start:dev"
+    "dev:api": "pnpm schema:build && SQLITE_DB_PATH=./data/wordzoo.db MIGRATIONS_DIR=packages/db/drizzle COURSES_DATA_DIR=packages/xingrong-courses/data/courses pnpm -F api start:dev"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.11",

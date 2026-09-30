@@ -46,8 +46,8 @@
           <p class="program-description">
             {{
               feature.type === "免费"
-                ? "我们的基本服务涵盖了很多内容，您也可以在上面进行 Elearn 之旅！"
-                : "终身多种定制服务，体验我们所有的功能， Elearn 将全方位支持您的英语课程！"
+                ? "我们的基本服务涵盖了很多内容，您也可以在上面进行 WordZoo 之旅！"
+                : "终身多种定制服务，体验我们所有的功能， WordZoo 将全方位支持您的英语课程！"
             }}
           </p>
         </div>
@@ -95,7 +95,7 @@
         >7 天内获得 100% 退款</span
       >
       在购买之日起<br />
-      购买Elearn许可证后，
+      购买WordZoo许可证后，
       <span
         class="bg-gradient-to-r from-purple-400 via-purple-400 to-gray-400 bg-clip-text text-transparent dark:from-purple-600 dark:via-purple-600 dark:to-gray-500"
         >登录</span

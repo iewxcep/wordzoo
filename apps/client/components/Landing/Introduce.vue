@@ -4,7 +4,7 @@
     id="what"
   >
     <CommonTitle
-      title="What is Elearn?"
+      title="What is WordZoo?"
       :description="['An open-source, collaborative, user-friendly English learning tool.']"
     />
     <section class="flex w-full justify-around py-8">

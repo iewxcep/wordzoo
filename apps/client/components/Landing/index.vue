@@ -1,6 +1,6 @@
 <template>
   <div class="font-customFont">
-    <LandingBanner @start-earthworm="startElearn" />
+    <LandingBanner @start-earthworm="startWordZoo" />
     <LandingFeatures />
     <LandingComments />
     <CommonBackTop class="sticky bottom-28 ml-auto flex justify-end sm:block" />
@@ -13,25 +13,25 @@ import { useRouter } from "vue-router";
 
 import { cancelShortcut, registerShortcut } from "~/utils/keyboardShortcuts";
 
-const { startElearn } = useShortcutToGame();
+const { startWordZoo } = useShortcutToGame();
 
 function useShortcutToGame() {
   const router = useRouter();
 
-  async function startElearn() {
+  async function startWordZoo() {
     router.push(`/course-pack`);
   }
 
   onMounted(() => {
-    registerShortcut("enter", startElearn);
+    registerShortcut("enter", startWordZoo);
   });
 
   onUnmounted(() => {
-    cancelShortcut("enter", startElearn);
+    cancelShortcut("enter", startWordZoo);
   });
 
   return {
-    startElearn,
+    startWordZoo,
   };
 }
 </script>

@@ -1,6 +1,6 @@
 ---
 name: course-pack
-description: 生成 Earthworm/ELearn 课程包 JSON（三层结构：包→课程→语句）并导入到本地应用。当用户要新建英语题库、词汇库、句子课程包，或把词表/课文转成课程包时使用。
+description: 生成 Earthworm/WordZoo 课程包 JSON（三层结构：包→课程→语句）并导入到本地应用。当用户要新建英语题库、词汇库、句子课程包，或把词表/课文转成课程包时使用。
 ---
 
 # 生成课程包（Course Pack）
@@ -52,12 +52,12 @@ description: 生成 Earthworm/ELearn 课程包 JSON（三层结构：包→课�
    python3 scripts/validate.py <课程包.json> [--fix]
    ```
    不带 `--fix` 检查结构、空值、重复词条、english 标点；带 `--fix` 会先就地净化 english（非法标点→空格、词尾句点删除，与 API 入库规则一致）再校验，全标点语句报错提示将被导入跳过。必须通过再导入。
-4. **导入**：应用运行时（ELearn 已启动，API 在 127.0.0.1:3001）：
+4. **导入**：应用运行时（WordZoo 已启动，API 在 127.0.0.1:3001）：
    ```
    curl -s -X POST http://127.0.0.1:3001/admin/course-packs/import \
      -H 'Content-Type: application/json' --data-binary @<课程包.json>
    ```
-   成功返回新包 JSON。若应用未运行，提示用户先启动 ELearn（开发环境也可 `npm start` 于 /app/elearn）。
+   成功返回新包 JSON。若应用未运行，提示用户先启动 WordZoo（开发环境也可 `npm start` 于 /app/wordzoo）。
 5. **核对**：`curl -s http://127.0.0.1:3001/course-pack | python3 -m json.tool` 确认新包出现、课数正确；抽查一条课程的语句列表。
 
 ## 注意

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 把 build/icon.ico 写进打包出的 ELearn.exe 图标资源（RT_GROUP_ICON id=1）。
+// 把 build/icon.ico 写进打包出的 WordZoo.exe 图标资源（RT_GROUP_ICON id=1）。
 // 用途：electron-builder 在 Linux 交叉打包时 signAndEditExecutable: false，
 // exe 图标需要打包后补写（Windows 上 pnpm run dist 也会自动执行一次）。
 // 依赖 resedit（workspace 根 devDependencies）。
@@ -27,7 +27,7 @@ const iconFileMod = await import(
 const IconGroupEntry = iconGroupEntryMod.default.default ?? iconGroupEntryMod.default;
 const IconFile = iconFileMod.default?.default ?? iconFileMod.default;
 
-const exePath = process.argv[2] ?? path.join(root, "release/win-unpacked/ELearn.exe");
+const exePath = process.argv[2] ?? path.join(root, "release/win-unpacked/WordZoo.exe");
 const icoPath = process.argv[3] ?? path.join(root, "build/icon.ico");
 
 try {
@@ -51,4 +51,4 @@ const iconItems = ico.icons.map((i) => i.data);
 IconGroupEntry.replaceIconsForResource(res.entries, target.id, target.lang, iconItems);
 res.outputResource(exe);
 await writeFile(exePath, Buffer.from(exe.generate()));
-console.log(`ELearn.exe 图标已更新 → ${exePath} (${iconItems.length} 帧)`);
+console.log(`WordZoo.exe 图标已更新 → ${exePath} (${iconItems.length} 帧)`);
