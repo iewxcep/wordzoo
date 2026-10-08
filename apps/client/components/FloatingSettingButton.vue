@@ -82,16 +82,16 @@ const showMenuOptions = computed(() => {
       icon: "i-ph-pencil-ruler-duotone",
     },
     {
-      title: "关于",
-      name: "about",
-      eventName: () => navigateAndClose("/user/about"),
-      icon: "i-ph-info",
-    },
-    {
       title: "主题切换",
       name: "changeTheme",
       eventName: toggleDarkMode,
       icon: isDarkMode.value ? "i-ph-moon" : "i-ph-sun",
+    },
+    {
+      title: "关于",
+      name: "about",
+      eventName: () => navigateAndClose("/user/about"),
+      icon: "i-ph-info",
     },
   ];
 });
