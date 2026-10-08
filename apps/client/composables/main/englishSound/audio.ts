@@ -1,5 +1,7 @@
 import { PronunciationType, usePronunciation, useSpeechRate } from "~/composables/user/pronunciation";
-import { fetchEdgeTts } from "~/api/tool";
+import { toast } from "vue-sonner";
+
+import { EdgeTtsTimeoutError, fetchEdgeTts } from "~/api/tool";
 
 // 便于测试
 // 后面不使用 audio 后也可以不破坏业务逻辑
@@ -158,7 +160,17 @@ function playWithEdgeTts(text: string, playOptions?: PlayOptions): () => void {
       void audioEl.play();
     } catch (err) {
       console.error("[englishSound] edge tts failed:", err);
-      if (!cancelled) playWordsSequentially(text, rate);
+      if (!cancelled) {
+        if (err instanceof EdgeTtsTimeoutError) {
+          // 超时提示：右下角，3 秒自动关闭；同一 id 保证旧提示先消失，避免连播多条
+          toast.info("在线语音请求超时，本次改用单词录音", {
+            id: "edge-tts-timeout",
+            position: "bottom-right",
+            duration: 3000,
+          });
+        }
+        playWordsSequentially(text, rate);
+      }
     }
   })();
 
