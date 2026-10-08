@@ -12,7 +12,7 @@
 ## 直接测试（推荐）
 
 拷贝 `release/WordZoo-1.0.0-win.zip` 到 Windows，解压后双击 `WordZoo.exe` 即可（无需安装）。
-- 数据落在 `%APPDATA%/WordZoo/wordzoo.db`。更名迁移链：老版本 `earthworm.db` / `elearn.db` 启动时自动更名；从旧版应用升级时，旧数据目录 `%APPDATA%/elearn`（运行时应用名为小写）里的库会自动复制到新目录，学习进度保留。
+- 数据落在 `%APPDATA%/WordZoo/wordzoo.db`。
 
 ## 界面调整
 

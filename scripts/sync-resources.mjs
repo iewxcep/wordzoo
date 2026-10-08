@@ -1,7 +1,14 @@
 #!/usr/bin/env node
 // 把 workspace 构建产物同步到 resources/（随应用分发的最终形态）。
 // 由根 package.json 的 build:resources 在所有构建完成后调用。
-import { cpSync, existsSync, mkdirSync, readdirSync, rmSync } from "node:fs";
+import {
+  cpSync,
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  realpathSync,
+  rmSync,
+} from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -27,16 +34,21 @@ cpSync(path.join(root, "packages/xingrong-courses/data/courses"), resources("cou
 // 4. 原生 better-sqlite3：dev 用 workspace 里的 ELF（Linux node ABI）；
 //    Windows 打包由 electron-builder 从 native/win/node_modules 单独取 PE prebuild。
 //    bindings 供 better-sqlite3 运行时查找 .node（resources/node_modules 与 native/win 两份都带）。
+// pnpm 不 hoist：bindings/file-uri-to-path 各自存放在 .pnpm 独立 store，
+// 通过 symlink 串联（better-sqlite3 平级 symlink → bindings store → file-uri-to-path symlink）。
+// 沿 symlink realpath 解析到真实目录，拷贝为普通文件（electron-builder 期望实体目录）。
 rmSync(resources("node_modules"), { recursive: true, force: true });
-cpSync(path.join(root, "node_modules/better-sqlite3"), resources("node_modules/better-sqlite3"), {
-  recursive: true,
-});
-cpSync(path.join(root, "node_modules/bindings"), resources("node_modules/bindings"), {
-  recursive: true,
-});
-cpSync(path.join(root, "node_modules/file-uri-to-path"), resources("node_modules/file-uri-to-path"), {
-  recursive: true,
-});
+import { createRequire } from "node:module";
+function copyPkgReal(fromPath, destName) {
+  cpSync(realpathSync(fromPath), path.join(resources("node_modules"), destName), { recursive: true });
+}
+const bsql3Entry = realpathSync(createRequire(import.meta.url).resolve("better-sqlite3")); // …/better-sqlite3/lib/index.js
+const bsql3Pkg = path.dirname(path.dirname(bsql3Entry)); // 回退两级＝包根（含 lib/ build/）
+const bsql3Pkgs = path.dirname(bsql3Pkg); // …/better-sqlite3@x.y.z/node_modules（pnpm store 平级）
+copyPkgReal(bsql3Pkg, "better-sqlite3");
+const bindingsPkgs = path.dirname(realpathSync(path.join(bsql3Pkgs, "bindings"))); // realpath 即 bindings@x 包目录，退一级到 store 平级
+copyPkgReal(path.join(bindingsPkgs, "file-uri-to-path"), "file-uri-to-path");
+copyPkgReal(path.join(bsql3Pkgs, "bindings"), "bindings");
 
 function countJson(dir) {
   return existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith(".json")).length : 0;

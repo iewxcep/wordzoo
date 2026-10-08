@@ -88,36 +88,6 @@ async function startApiServer(): Promise<string> {
   const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "wordzoo.db");
   fs.mkdirSync(path.dirname(dbPath), { recursive: true });
 
-  // 数据库历史更名链：earthworm.db → elearn.db → wordzoo.db，保留学习进度。
-  // 包名变更会同时更换 userData 目录（运行时应用名 elearn → WordZoo），打包态把
-  // 老目录（%APPDATA%/elearn，已实测存在的真实目录）里的库复制过来，保留学习
-  // 进度；用复制而非改名，万一回退旧版应用仍能打开老库。
-  if (!fs.existsSync(dbPath)) {
-    const dbDir = path.dirname(dbPath);
-    const legacyDirs = app.isPackaged
-      ? [dbDir, path.join(path.dirname(dbDir), "elearn")]
-      : [dbDir];
-    const legacyNames = ["elearn.db", "earthworm.db"];
-    for (const dir of legacyDirs) {
-      for (const name of legacyNames) {
-        const from = path.join(dir, name);
-        if (!fs.existsSync(from)) continue;
-        for (const suffix of ["", "-wal", "-shm"]) {
-          const src = from + suffix;
-          const to = dbPath + suffix;
-          if (!fs.existsSync(src) || fs.existsSync(to)) continue;
-          if (dir === dbDir) {
-            fs.renameSync(src, to);
-          } else {
-            fs.cpSync(src, to);
-          }
-        }
-        break;
-      }
-      if (fs.existsSync(dbPath)) break;
-    }
-  }
-
   process.env.SQLITE_DB_PATH = dbPath;
   process.env.MIGRATIONS_DIR ||= resources.migrationsDir;
   process.env.COURSES_DATA_DIR ||= resources.coursesDataDir;

@@ -25,10 +25,10 @@
           @change="onAvatarChange"
         />
       </label>
-      <div class="mt-3 truncate">
+      <div class="mt-3 truncate text-center">
         <div
           v-if="isEditingName"
-          class="flex items-center gap-1"
+          class="flex items-center justify-center gap-1"
         >
           <input
             ref="nameInput"
@@ -42,7 +42,7 @@
         </div>
         <div
           v-else
-          class="group/name flex cursor-pointer items-center gap-1"
+          class="group/name flex cursor-pointer items-center justify-center gap-1"
           title="点击修改用户名"
           @click="startEditName"
         >
