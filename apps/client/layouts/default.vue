@@ -10,13 +10,13 @@
           <NuxtPage />
         </div>
       </div>
-      <FloatingHomeButton />
+      <HomeContextMenu />
       <FloatingSettingButton />
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import FloatingHomeButton from "~/components/FloatingHomeButton.vue";
+import HomeContextMenu from "~/components/HomeContextMenu.vue";
 import FloatingSettingButton from "~/components/FloatingSettingButton.vue";
 </script>

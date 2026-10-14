@@ -18,8 +18,7 @@
       </button>
     </div>
 
-    <!-- 右移避开右下角固定的“回到首页”悬浮按钮 -->
-    <div class="mr-20 h-12 w-12">
+    <div class="h-12 w-12">
       <button
         v-show="courseStore.visibleStatementIndex + 1 !== courseStore.visibleStatementsCount"
         class="arrow-btn"

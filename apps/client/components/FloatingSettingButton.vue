@@ -88,6 +88,12 @@ const showMenuOptions = computed(() => {
       icon: isDarkMode.value ? "i-ph-moon" : "i-ph-sun",
     },
     {
+      title: "帮助",
+      name: "help",
+      eventName: () => navigateAndClose("/user/help"),
+      icon: "i-ph-question",
+    },
+    {
       title: "关于",
       name: "about",
       eventName: () => navigateAndClose("/user/about"),
