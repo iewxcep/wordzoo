@@ -1,11 +1,13 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
 const appScripts: any = [];
-if (process.env.NODE_ENV === "production") {
+// for https://clarity.microsoft.com/
+// 只在配置了项目 ID 时注入：未设 CLARITY 时不该向 clarity.ms 发无效请求
+// （桌面版构建通常不设，注入只会产生 `<id>=undefined` 的死请求）。
+if (process.env.NODE_ENV === "production" && process.env.CLARITY) {
   addClarity();
 }
 
-// for https://clarity.microsoft.com/
 function addClarity() {
   appScripts.push({
     innerHTML: `(function(c,l,a,r,i,t,y){
