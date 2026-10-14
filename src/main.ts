@@ -133,16 +133,74 @@ async function waitForApi(apiUrl: string): Promise<void> {
   throw new Error(`API did not become ready at ${healthUrl}`);
 }
 
+// Windows 11 build 22000+ 允许应用按窗口单独设置边框颜色：
+// DWMWA_BORDER_COLOR = 34（dwmapi.h）。系统默认边框跟随 Windows 强调色
+// （默认蓝色）；传 DWMWA_COLOR_NONE 表示不画边框，与无边框自绘应用一致。
+const DWMWA_BORDER_COLOR = 34;
+const DWMWA_COLOR_NONE = 0xfffffffe;
+type DwmSetAttrFn = (hwnd: unknown, attr: number, pv: Buffer, cb: number) => number;
+let dwmSetAttrCache: DwmSetAttrFn | null | undefined;
+
+/** DwmSetWindowAttribute 的惰性绑定；非 Windows 或 koffi 缺失时返回 null，边框保持系统默认。 */
+function getDwmSetAttr(): DwmSetAttrFn | null {
+  if (dwmSetAttrCache !== undefined) return dwmSetAttrCache;
+  let setter: DwmSetAttrFn | null = null;
+  if (process.platform === "win32") {
+    try {
+      // koffi 是带预编译产物的 N-API 模块（无需 node-gyp），仅在 win32 分支 require。
+      const koffi = require("koffi");
+      const dwmapi = koffi.load("dwmapi.dll");
+      // hwnd 必须是句柄值本身：getNativeWindowHandle() 的 Buffer 内容才是 HWND，
+      // koffi 把 Buffer 传给 void * 时传的是 Buffer 数据地址（假句柄 → E_HANDLE），
+      // 所以参数用 uintptr_t，调用处读出值再传。
+      setter = dwmapi.func(
+        "__stdcall",
+        "DwmSetWindowAttribute",
+        "long",
+        ["uintptr_t", "uint32_t", "void *", "uint32_t"],
+      );
+    } catch (err) {
+      log("warn", "dwmapi binding unavailable:", err);
+    }
+  }
+  dwmSetAttrCache = setter;
+  return setter;
+}
+
+/** 设置窗口边框（COLORREF 0x00BBGGRR 或 DWMWA_COLOR_NONE 等特殊值）；
+ * 仅 Win11 生效，其余平台安全跳过（Win10 无此接口）。 */
+function setWindowBorderColor(win: BrowserWindow, colorRef: number): void {
+  const setAttr = getDwmSetAttr();
+  if (!setAttr) return;
+  try {
+    const hwndBuf = win.getNativeWindowHandle();
+    const hwnd = hwndBuf.length === 8 ? hwndBuf.readBigUInt64LE(0) : hwndBuf.readUInt32LE(0);
+    const value = Buffer.alloc(4);
+    value.writeUInt32LE(colorRef >>> 0, 0);
+    const hr = setAttr(hwnd, DWMWA_BORDER_COLOR, value, 4);
+    if (hr !== 0) {
+      // 预期内失败：Win10 不支持该属性（E_INVALIDARG）。
+      log("warn", `DwmSetWindowAttribute(BORDER_COLOR) hr=0x${(hr >>> 0).toString(16)}`);
+    }
+  } catch (err) {
+    log("warn", "setWindowBorderColor failed:", err);
+  }
+}
+
 function createWindow(rendererUrl: string): void {
   const win = new BrowserWindow({
     width: 1280,
     height: 800,
+    // Chromium 默认窗口底色是白色，换页/加载时会白闪；跟随客户端深色主题底色。
+    backgroundColor: "#05051d",
     webPreferences: {
       preload: path.join(__dirname, "preload.js"),
       contextIsolation: true,
       nodeIntegration: false,
     },
   });
+
+  setWindowBorderColor(win, DWMWA_COLOR_NONE);
 
   win.webContents.on("console-message", (_event, level, message, line, sourceId) => {
     const levelName = level === 3 ? "error" : level === 2 ? "warn" : "info";

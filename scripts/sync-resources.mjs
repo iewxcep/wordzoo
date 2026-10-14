@@ -31,6 +31,13 @@ cpSync(path.join(root, "packages/xingrong-courses/data/courses"), resources("cou
   recursive: true,
 });
 
+// 3.5 course-pack 技能：随包分发到安装根目录（electron-builder extraFiles
+//     取 resources/course-pack → <install>/course-pack），供本地 AI 助手读取。
+rmSync(resources("course-pack"), { recursive: true, force: true });
+cpSync(path.join(root, ".agents/skills/course-pack"), resources("course-pack"), {
+  recursive: true,
+});
+
 // 4. 原生 better-sqlite3：dev 用 workspace 里的 ELF（Linux node ABI）；
 //    Windows 打包由 electron-builder 从 native/win/node_modules 单独取 PE prebuild。
 //    bindings 供 better-sqlite3 运行时查找 .node（resources/node_modules 与 native/win 两份都带）。
