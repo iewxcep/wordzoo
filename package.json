@@ -1,7 +1,7 @@
 {
   "name": "wordzoo",
   "productName": "WordZoo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WordZoo desktop (standalone Electron build)",
   "main": "dist/main.js",
   "private": true,

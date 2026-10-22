@@ -92,7 +92,7 @@
     <section>
       <h2 class="about-heading text-xl font-semibold text-[#141413] dark:text-[#faf9f5]">赞助支持</h2>
       <p class="about-body mt-5 text-base leading-7 text-[#74726d] dark:text-[#b0aea5]">
-        字游会一直免费。如果它帮到了你的英语学习，欢迎用支付宝请作者喝一杯咖啡。赞助完全自愿，不换取任何功能、特权或回报；收款码仅用于接收付款，不会向你索取任何账号信息。
+        字游会一直免费。如果它帮到了你的英语学习，欢迎用支付宝买点 token 补贴一下运行成本。赞助完全自愿，不换取任何功能、特权或回报；收款码仅用于接收付款，不会向你索取任何账号信息。
       </p>
       <figure
         class="about-card mt-5 flex flex-col items-center gap-5 rounded-xl border p-6 sm:flex-row sm:items-center sm:gap-8"
