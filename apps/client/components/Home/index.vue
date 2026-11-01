@@ -10,7 +10,7 @@
           <!-- 通过给定高度来自适应拉伸图片，如果图片不存在或者加载失败则显示外层的背景色（没有宽度） -->
           <img
             class="h-full w-full object-cover"
-            :src="userStore.user?.avatar"
+            :src="userStore.user?.avatar || DEFAULT_AVATAR"
           />
         </div>
         <div
@@ -101,6 +101,8 @@ import { useUserStore } from "~/store/user";
 import { useLearningTimeTracker } from "../../composables/main/learningTimeTracker";
 
 const userStore = useUserStore();
+// 未上传头像时展示的默认头像（public/default-avatar.png）
+const DEFAULT_AVATAR = "/default-avatar.png";
 const { learningDailyTimeList, learningDailyTotalTime, setupLearningDailyTime } =
   useLearningDailyTime();
 const { toggleYear } = useCalendarGraph();

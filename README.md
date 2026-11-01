@@ -11,7 +11,7 @@
 
 ## 直接测试（推荐）
 
-拷贝 `release/WordZoo-1.0.0-win.zip` 到 Windows，解压后双击 `WordZoo.exe` 即可（无需安装）。
+拷贝 `release/WordZoo-1.0.2-win.zip` 到 Windows，解压后双击 `WordZoo.exe` 即可（无需安装）。
 - 数据落在 `%APPDATA%/WordZoo/wordzoo.db`。
 
 ## 界面调整
@@ -65,7 +65,7 @@ api.cjs 与旧发布件逐字节一致（md5 feb2e240…），课程数据、迁
 ## Windows 打包
 
 ```bash
-corepack pnpm run dist   # 产出 release/WordZoo-Setup-1.0.0.exe（NSIS 安装包）+ zip
+corepack pnpm run dist   # 产出 release/WordZoo-Setup-1.0.2.exe（NSIS 安装包）+ zip
 ```
 
 - course-pack 技能随包分发：`electron-builder.yml` 的 `extraFiles` 把
@@ -99,7 +99,7 @@ corepack pnpm run dist   # 产出 release/WordZoo-Setup-1.0.0.exe（NSIS 安装�
 `appx` 打包只能在 Windows 上执行（Linux 交叉打包不支持），且无需安装 Windows SDK——makeappx 来自 electron-builder 的 vendor 包：
 
 ```powershell
-corepack pnpm run dist:store   # 产出 release/WordZoo-1.0.0-x64.appx
+corepack pnpm run dist:store   # 产出 release/WordZoo-1.0.2-x64.appx
 ```
 
 - `electron-builder.yml` 的 `appx` 块写入 Partner Center「应用管理 → App identity」下发的

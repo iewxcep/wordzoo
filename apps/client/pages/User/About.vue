@@ -113,7 +113,7 @@
 <script setup lang="ts">
 import { onMounted, ref } from "vue";
 
-const version = ref("1.0.0");
+const version = ref("1.0.2");
 
 onMounted(async () => {
   const bridgeVersion = await window.desktop?.getVersion?.();

@@ -10,21 +10,16 @@ const DARK_MODE = "DARK_MODE";
 const DARK_THEME_CLASS = "dark";
 const LIGHT_THEME_CLASS = "light";
 
-const darkMode = ref(Theme.LIGHT);
+const darkMode = ref(Theme.DARK);
 export function useDarkMode() {
   const isAppearanceTransition =
     document.startViewTransition && !window.matchMedia(`(prefers-reduced-motion: reduce)`).matches;
 
-  const isDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
-
   const cacheDarkMode = localStorage.getItem(DARK_MODE) as Theme | null;
 
   const initDarkMode = () => {
-    if (isDarkMode && !cacheDarkMode) {
-      setDarkMode(true);
-      return;
-    }
-    setDarkMode(cacheDarkMode === Theme.DARK);
+    // 默认深色：仅当用户显式选过浅色（localStorage 记录为 light）时才用浅色
+    setDarkMode(cacheDarkMode !== Theme.LIGHT);
   };
 
   const toggle = (isDark: boolean) => {

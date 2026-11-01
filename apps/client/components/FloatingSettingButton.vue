@@ -41,14 +41,14 @@
       </div>
 
       <!-- 底部信息 -->
-      <div class="p-3 text-center text-xs opacity-50">版本 v1.0.0</div>
+      <div class="p-3 text-center text-xs opacity-50">版本 v{{ version }}</div>
     </template>
     </UPopover>
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from "vue";
+import { computed, onMounted, ref } from "vue";
 import { navigateTo } from "#imports";
 import { useRoute } from "vue-router";
 
@@ -60,6 +60,13 @@ const onHome = computed(() => route.path === "/");
 const isOpen = ref(false);
 const { darkMode, toggleDarkMode } = useDarkMode();
 const isDarkMode = computed(() => darkMode.value === Theme.DARK);
+
+/** 版本随桌面端动态取值（app.getVersion），纯 Web 部署回退到兜底值 */
+const version = ref("1.0.2");
+onMounted(async () => {
+  const bridgeVersion = await window.desktop?.getVersion?.();
+  if (bridgeVersion) version.value = bridgeVersion;
+});
 
 const showMenuOptions = computed(() => {
   return [

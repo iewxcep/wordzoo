@@ -56,24 +56,17 @@ function getResources(): DesktopResources {
   };
 }
 
-/** Pick a free TCP port, preferring 3001. */
-function findFreePort(preferred: number): Promise<number> {
+/** 让操作系统分配一个随机空闲端口（绑定 :0 后读回实际端口），
+ * 避免固定端口（如 3001）被其他程序占用导致服务起不来、窗口黑屏。 */
+function findFreePort(): Promise<number> {
   const { promise, resolve, reject } = Promise.withResolvers<number>();
-  const probe = (port: number, attemptsLeft: number) => {
-    const server = net.createServer();
-    server.once("error", () => {
-      if (attemptsLeft <= 0) {
-        reject(new Error("no free port found"));
-        return;
-      }
-      probe(port + 1, attemptsLeft - 1);
-    });
-    server.once("listening", () => {
-      server.close(() => resolve(port));
-    });
-    server.listen(port, "127.0.0.1");
-  };
-  probe(preferred, 50);
+  const server = net.createServer();
+  server.once("error", reject);
+  server.once("listening", () => {
+    const port = (server.address() as net.AddressInfo).port;
+    server.close(() => resolve(port));
+  });
+  server.listen(0, "127.0.0.1");
   return promise;
 }
 
@@ -82,7 +75,8 @@ function findFreePort(preferred: number): Promise<number> {
  * Returns the base URL to health-check.
  */
 async function startApiServer(): Promise<string> {
-  const port = await findFreePort(Number(process.env.PORT || 3001));
+  // 显式设置 PORT 环境变量时沿用；否则由系统分配随机空闲端口
+  const port = process.env.PORT ? Number(process.env.PORT) : await findFreePort();
 
   const resources = getResources();
   const dbPath = process.env.SQLITE_DB_PATH || path.join(app.getPath("userData"), "wordzoo.db");
